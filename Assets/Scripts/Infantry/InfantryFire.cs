@@ -108,7 +108,7 @@ public class InfantryFire : NetworkBehaviour {
             bullets = (GameObject)Instantiate(Bullet,FirePoint1.position,FirePoint1.rotation);
             bulletsRig=bullets.GetComponent<Rigidbody>();
             bulletsRig.velocity = f * CurrentFiringRate;
-            Destroy(bullets,1.5f);
+            //Destroy(bullets,1.5f);
             NetworkServer.Spawn(bullets);    
         }
 

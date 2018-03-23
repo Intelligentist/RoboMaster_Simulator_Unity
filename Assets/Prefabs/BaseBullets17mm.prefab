@@ -54,11 +54,12 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 49c3c02661a83fd42b33859cfbf9a17d, type: 2}
+  - {fileID: 2100000, guid: 616853845a4a54949ac851f2f807aa2a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -69,6 +70,7 @@ MeshRenderer:
   m_PreserveUVs: 1
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -158,7 +160,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1069471360627932}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 52baaeb214519f347a35cf0edfd262ff, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
