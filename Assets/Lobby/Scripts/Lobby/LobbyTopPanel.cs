@@ -24,7 +24,7 @@ namespace Prototype.NetworkLobby
 
             if (Input.GetKeyDown(KeyCode.Escape))
             {
-                ToggleVisibility(!isDisplayed);
+                ToggleVisibility(false);
             }
 
         }
