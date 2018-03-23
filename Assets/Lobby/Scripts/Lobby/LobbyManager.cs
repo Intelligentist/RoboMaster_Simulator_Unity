@@ -18,7 +18,7 @@ namespace Prototype.NetworkLobby
 
         [Header("Unity UI Lobby")]
         [Tooltip("Time in second between all players ready & match start")]
-        public float prematchCountdown = 5.0f;
+        public float prematchCountdown = 8.0f;
 
         [Space]
         [Header("UI Reference")]
@@ -153,7 +153,7 @@ namespace Prototype.NetworkLobby
         public void DisplayIsConnecting()
         {
             var _this = this;
-            infoPanel.Display("Connecting...", "Cancel", () => { _this.backDelegate(); });
+            infoPanel.Display("连接中 Connecting...", "取消 Cancel", () => { _this.backDelegate(); });
         }
 
         public void SetServerInfo(string status, string host)
@@ -248,7 +248,7 @@ namespace Prototype.NetworkLobby
 
         public void KickedMessageHandler(NetworkMessage netMsg)
         {
-            infoPanel.Display("Kicked by Server", "Close", null);
+            infoPanel.Display("被踢出 Kicked", "关闭 Close", null);
             netMsg.conn.Disconnect();
         }
 
@@ -418,27 +418,27 @@ namespace Prototype.NetworkLobby
                 
             if (player.playerColor == Color.red)
             {
-                if (player.playerSpawn == "SPAWN1" || player.playerSpawn == "NULL")
+                if (player.playerSpawn == "ONE" || player.playerSpawn == "NULL")
                 {
                     startPositions[0] = redspawnpoint[0];
                 }
-                if (player.playerSpawn == "SPAWN2")
+                if (player.playerSpawn == "TWO")
                 {
                     startPositions[0] = redspawnpoint[1];
                 }
-                if (player.playerSpawn == "SPAWN3")
+                if (player.playerSpawn == "THREE")
                 {
                     startPositions[0] = redspawnpoint[2];
                 }
-                if (player.playerSpawn == "SPAWN4")
+                if (player.playerSpawn == "FOUR")
                 {
                     startPositions[0] = redspawnpoint[3];
                 }
-                if (player.playerSpawn == "SPAWN5")
+                if (player.playerSpawn == "FIVE")
                 {
                     startPositions[0] = redspawnpoint[4];
                 }
-                if (player.playerSpawn == "SPAWN6")
+                if (player.playerSpawn == "SIX")
                 {
                     startPositions[0] = redspawnpoint[5];
                 }
@@ -446,27 +446,27 @@ namespace Prototype.NetworkLobby
 
             if (player.playerColor == Color.blue)
             {
-                if (player.playerSpawn == "SPAWN1")
+                if (player.playerSpawn == "ONE")
                 {
                     startPositions[0] = bluespawnpoint[0];
                 }
-                if (player.playerSpawn == "SPAWN2")
+                if (player.playerSpawn == "TWO")
                 {
                     startPositions[0] = bluespawnpoint[1];
                 }
-                if (player.playerSpawn == "SPAWN3")
+                if (player.playerSpawn == "THREE")
                 {
                     startPositions[0] = bluespawnpoint[2];
                 }
-                if (player.playerSpawn == "SPAWN4")
+                if (player.playerSpawn == "FOUR")
                 {
                     startPositions[0] = bluespawnpoint[3];
                 }
-                if (player.playerSpawn == "SPAWN5")
+                if (player.playerSpawn == "FIVE")
                 {
                     startPositions[0] = bluespawnpoint[4];
                 }
-                if (player.playerSpawn == "SPAWN6")
+                if (player.playerSpawn == "SIX")
                 {
                     startPositions[0] = bluespawnpoint[5];
                 }
@@ -533,7 +533,7 @@ namespace Prototype.NetworkLobby
         public override void OnClientError(NetworkConnection conn, int errorCode)
         {
             ChangeTo(mainMenuPanel);
-            infoPanel.Display("Cient error : " + (errorCode == 6 ? "timeout" : errorCode.ToString()), "Close", null);
+            infoPanel.Display("Cient error: " + (errorCode == 6 ? "timeout" : errorCode.ToString()), "Close", null);
         }
     }
 }

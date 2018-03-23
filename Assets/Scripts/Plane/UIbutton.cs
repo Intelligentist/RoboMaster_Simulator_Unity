@@ -1,8 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+
+
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Networking;
+
+
 internal enum colorchoose
 {
     RED,
@@ -167,17 +171,17 @@ public class UIbutton : NetworkBehaviour
                 {
                     case carchoose.HERO: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(HeroModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation,0);
+				case spawnchoose.spawn1: Instantiate(HeroModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(HeroModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation, 0);
+				case spawnchoose.spawn2: Instantiate(HeroModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(HeroModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation, 0);
+				case spawnchoose.spawn3: Instantiate(HeroModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(HeroModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation, 0);
+				case spawnchoose.spawn4: Instantiate(HeroModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(HeroModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation, 0);
+				case spawnchoose.spawn5: Instantiate(HeroModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(HeroModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation, 0);
+				case spawnchoose.spawn6: Instantiate(HeroModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation);
                                 break;
                             default:
                                 break;
@@ -185,17 +189,17 @@ public class UIbutton : NetworkBehaviour
                         break;
                     case carchoose.ENGINEER: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(EngineerModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation, 0);
+				case spawnchoose.spawn1: Instantiate(EngineerModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(EngineerModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation, 0);
+				case spawnchoose.spawn2: Instantiate(EngineerModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(EngineerModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation, 0);
+				case spawnchoose.spawn3: Instantiate(EngineerModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(EngineerModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation, 0);
+				case spawnchoose.spawn4: Instantiate(EngineerModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(EngineerModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation, 0);
+				case spawnchoose.spawn5: Instantiate(EngineerModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(EngineerModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation, 0);
+				case spawnchoose.spawn6: Instantiate(EngineerModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation);
                                 break;
                             default:
                                 break;
@@ -203,17 +207,17 @@ public class UIbutton : NetworkBehaviour
                         break;
                     case carchoose.INFANTRY: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(InfantryModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation, 0);
+				case spawnchoose.spawn1: Instantiate(InfantryModel, realspawnpoint[0].localPosition, realspawnpoint[0].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(InfantryModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation, 0);
+				case spawnchoose.spawn2: Instantiate(InfantryModel, realspawnpoint[1].localPosition, realspawnpoint[1].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(InfantryModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation, 0);
+				case spawnchoose.spawn3: Instantiate(InfantryModel, realspawnpoint[2].localPosition, realspawnpoint[2].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(InfantryModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation, 0);
+				case spawnchoose.spawn4: Instantiate(InfantryModel, realspawnpoint[3].localPosition, realspawnpoint[3].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(InfantryModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation, 0);
+				case spawnchoose.spawn5: Instantiate(InfantryModel, realspawnpoint[4].localPosition, realspawnpoint[4].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(InfantryModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation, 0);
+				case spawnchoose.spawn6: Instantiate(InfantryModel, realspawnpoint[5].localPosition, realspawnpoint[5].localRotation);
                                 break;
                             default:
                                 break;
@@ -227,17 +231,17 @@ public class UIbutton : NetworkBehaviour
                 {
                     case carchoose.HERO: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(HeroModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation, 0);
+				case spawnchoose.spawn1: Instantiate(HeroModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(HeroModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation, 0);
+				case spawnchoose.spawn2: Instantiate(HeroModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(HeroModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation, 0);
+				case spawnchoose.spawn3: Instantiate(HeroModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(HeroModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation, 0);
+				case spawnchoose.spawn4: Instantiate(HeroModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(HeroModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation, 0);
+				case spawnchoose.spawn5: Instantiate(HeroModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(HeroModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation, 0);
+				case spawnchoose.spawn6: Instantiate(HeroModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation);
                                 break;
                             default:
                                 break;
@@ -245,17 +249,17 @@ public class UIbutton : NetworkBehaviour
                         break;
                     case carchoose.ENGINEER: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(EngineerModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation, 0);
+				case spawnchoose.spawn1: Instantiate(EngineerModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(EngineerModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation, 0);
+				case spawnchoose.spawn2: Instantiate(EngineerModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(EngineerModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation, 0);
+				case spawnchoose.spawn3: Instantiate(EngineerModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(EngineerModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation, 0);
+				case spawnchoose.spawn4: Instantiate(EngineerModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(EngineerModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation, 0);
+				case spawnchoose.spawn5: Instantiate(EngineerModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(EngineerModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation, 0);
+				case spawnchoose.spawn6: Instantiate(EngineerModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation);
                                 break;
                             default:
                                 break;
@@ -263,17 +267,17 @@ public class UIbutton : NetworkBehaviour
                         break;
                     case carchoose.INFANTRY: switch (spawn)
                         {
-                            case spawnchoose.spawn1: Network.Instantiate(InfantryModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation, 0);
+                            case spawnchoose.spawn1: Instantiate(InfantryModel, realspawnpoint[6].localPosition, realspawnpoint[6].localRotation);
                                 break;
-                            case spawnchoose.spawn2: Network.Instantiate(InfantryModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation, 0);
+                            case spawnchoose.spawn2: Instantiate(InfantryModel, realspawnpoint[7].localPosition, realspawnpoint[7].localRotation);
                                 break;
-                            case spawnchoose.spawn3: Network.Instantiate(InfantryModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation, 0);
+                            case spawnchoose.spawn3: Instantiate(InfantryModel, realspawnpoint[8].localPosition, realspawnpoint[8].localRotation);
                                 break;
-                            case spawnchoose.spawn4: Network.Instantiate(InfantryModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation, 0);
+                            case spawnchoose.spawn4: Instantiate(InfantryModel, realspawnpoint[9].localPosition, realspawnpoint[9].localRotation);
                                 break;
-                            case spawnchoose.spawn5: Network.Instantiate(InfantryModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation, 0);
+                            case spawnchoose.spawn5: Instantiate(InfantryModel, realspawnpoint[10].localPosition, realspawnpoint[10].localRotation);
                                 break;
-                            case spawnchoose.spawn6: Network.Instantiate(InfantryModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation, 0);
+                            case spawnchoose.spawn6: Instantiate(InfantryModel, realspawnpoint[11].localPosition, realspawnpoint[11].localRotation);
                                 break;
                             default:
                                 break;

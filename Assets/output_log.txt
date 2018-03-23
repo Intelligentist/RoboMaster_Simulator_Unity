@@ -1,0 +1,58 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce 9500 GT (ID=0x640)
+    Vendor:   NVIDIA
+    VRAM:     2145 MB
+    Driver:   21.21.13.4201
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\RobomasterClient0707\Client_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\RobomasterClient0707\Client_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.272813 ms
+NetThread Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SerialPortManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d90 -> priority: 1 
+  Thread -> id: 14d4 -> priority: 1 
+PortThread Exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Exit NetThread
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

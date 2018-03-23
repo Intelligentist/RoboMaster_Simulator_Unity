@@ -11,9 +11,9 @@ namespace Prototype.NetworkLobby
     //Any LobbyHook can then grab it and pass those value to the game player prefab (see the Pong Example in the Samples Scenes)
     public class LobbyPlayer : NetworkLobbyPlayer
     {
-        static Color[] Colors = new Color[] {  Color.red,  Color.blue};
+        static Color[] Colors = new Color[] {Color.red,  Color.blue};
         static string[] Robots = new string[] {  "OBSERVER" ,"HERO","ENGINEER","INFANTRY1", "INFANTRY2", "INFANTRY3" };
-        static string[] Spawns = new string[] { "SPAWN6","SPAWN1", "SPAWN2", "SPAWN3", "SPAWN4", "SPAWN5"  };
+        static string[] Spawns = new string[] { "SIX","ONE", "TWO", "THREE", "FOUR", "FIVE"  };
         //used on server to avoid assigning the same color to two player
         static List<int> _colorInUse = new List<int>();
         private bool colorchoose = true;
@@ -126,7 +126,6 @@ namespace Prototype.NetworkLobby
             nameInput.interactable = true;
             remoteIcone.gameObject.SetActive(false);
             localIcone.gameObject.SetActive(true);
-
             CheckRemoveButton();
             CmdColorChangeInit();
             CmdRobotChange();
@@ -134,7 +133,7 @@ namespace Prototype.NetworkLobby
 
             ChangeReadyButtonColor(JoinColor);
 
-            readyButton.transform.GetChild(0).GetComponent<Text>().text = "JOIN";
+            readyButton.transform.GetChild(0).GetComponent<Text>().text = "SIGN IN";
             readyButton.interactable = true;
 
             //have to use child count of player prefab already setup as "this.slot" is not set yet
@@ -188,8 +187,8 @@ namespace Prototype.NetworkLobby
                 ChangeReadyButtonColor(TransparentColor);
 
                 Text textComponent = readyButton.transform.GetChild(0).GetComponent<Text>();
-                textComponent.text = "READY";
-                textComponent.color = ReadyColor;
+                textComponent.text = "LOADING";
+                //textComponent.color = ReadyColor;
                 readyButton.interactable = false;
                 colorButton.interactable = false;
                 robotButton.interactable = false;
@@ -201,7 +200,7 @@ namespace Prototype.NetworkLobby
                 ChangeReadyButtonColor(isLocalPlayer ? JoinColor : NotReadyColor);
 
                 Text textComponent = readyButton.transform.GetChild(0).GetComponent<Text>();
-                textComponent.text = isLocalPlayer ? "JOIN" : "...";
+                textComponent.text = isLocalPlayer ? "SIGN IN" : "...";
                 textComponent.color = Color.white;
                 readyButton.interactable = isLocalPlayer;
                 colorButton.interactable = isLocalPlayer;
@@ -299,7 +298,7 @@ namespace Prototype.NetworkLobby
         [ClientRpc]
         public void RpcUpdateCountdown(int countdown)
         {
-            LobbyManager.s_Singleton.countdownPanel.UIText.text = "Match Starting in " + countdown;
+            LobbyManager.s_Singleton.countdownPanel.UIText.text = "" + countdown;
             LobbyManager.s_Singleton.countdownPanel.gameObject.SetActive(countdown != 0);
         }
 

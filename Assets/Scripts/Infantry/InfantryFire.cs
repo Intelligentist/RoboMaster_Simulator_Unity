@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Networking;
+using UnityStandardAssets;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class InfantryFire : NetworkBehaviour {
 
@@ -92,7 +94,7 @@ public class InfantryFire : NetworkBehaviour {
             if ((CrossPlatformInputManager.GetAxisRaw("Mouse X") != 0 || CrossPlatformInputManager.GetAxisRaw("Mouse Y") != 0) && timer >= timeBetweenBullets)
             {
                 // ... shoot the gun
-                Shoot();
+                //Shoot();
             }
 #endif
 
