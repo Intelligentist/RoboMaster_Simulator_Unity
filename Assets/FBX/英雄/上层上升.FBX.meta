@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: 244f72585de342249b28e64d55566c78
+timeCreated: 1505114755
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  24'
+    100036: '  25'
+    100038: '  26'
+    100040: '  27'
+    100042: '  28'
+    100044: '  29'
+    100046: '  3'
+    100048: '  30'
+    100050: '  31'
+    100052: '  32'
+    100054: '  33'
+    100056: '  34'
+    100058: '  35'
+    100060: '  36'
+    100062: '  37'
+    100064: '  38'
+    100066: '  39'
+    100068: '  4'
+    100070: '  40'
+    100072: '  41'
+    100074: '  42'
+    100076: '  43'
+    100078: '  44'
+    100080: '  45'
+    100082: '  46'
+    100084: '  5'
+    100086: '  6'
+    100088: '  7'
+    100090: '  8'
+    100092: '  9'
+    100094: ' 1'
+    100096: ' 10'
+    100098: ' 11'
+    100100: ' 12'
+    100102: ' 13'
+    100104: ' 14'
+    100106: ' 15'
+    100108: ' 16'
+    100110: ' 17'
+    100112: ' 18'
+    100114: ' 19'
+    100116: ' 2'
+    100118: ' 20'
+    100120: ' 21'
+    100122: ' 22'
+    100124: ' 23'
+    100126: ' 24'
+    100128: ' 25'
+    100130: ' 26'
+    100132: ' 27'
+    100134: ' 28'
+    100136: ' 29'
+    100138: ' 3'
+    100140: ' 30'
+    100142: ' 31'
+    100144: ' 32'
+    100146: ' 33'
+    100148: ' 34'
+    100150: ' 35'
+    100152: ' 36'
+    100154: ' 37'
+    100156: ' 38'
+    100158: ' 39'
+    100160: ' 4'
+    100162: ' 40'
+    100164: ' 41'
+    100166: ' 42'
+    100168: ' 43'
+    100170: ' 44'
+    100172: ' 45'
+    100174: ' 46'
+    100176: ' 47'
+    100178: ' 48'
+    100180: ' 49'
+    100182: ' 5'
+    100184: ' 50'
+    100186: ' 51'
+    100188: ' 52'
+    100190: ' 53'
+    100192: ' 54'
+    100194: ' 55'
+    100196: ' 56'
+    100198: ' 57'
+    100200: ' 58'
+    100202: ' 59'
+    100204: ' 6'
+    100206: ' 60'
+    100208: ' 61'
+    100210: ' 62'
+    100212: ' 63'
+    100214: ' 64'
+    100216: ' 7'
+    100218: ' 8'
+    100220: ' 9'
+    100222: -1
+    100224: -1 1
+    100226: -1 2
+    100228: -1-DC_Shell
+    100230: -1-DC_Shell 1
+    100232: -1-DC_Shell 2
+    100234: -2
+    100236: -2 1
+    100238: -2 2
+    100240: -2 3
+    100242: -2-DC_Shell
+    100244: -2-DC_Shell 1
+    100246: -3
+    100248: -3 1
+    100250: -3 10
+    100252: -3 11
+    100254: -3 12
+    100256: -3 13
+    100258: -3 2
+    100260: -3 3
+    100262: -3 4
+    100264: -3 5
+    100266: -3 6
+    100268: -3 7
+    100270: -3 8
+    100272: -3 9
+    100274: -3-DC_Shell
+    100276: -3-DC_Shell 1
+    100278: -3-DC_Shell 10
+    100280: -3-DC_Shell 11
+    100282: -3-DC_Shell 12
+    100284: -3-DC_Shell 13
+    100286: -3-DC_Shell 2
+    100288: -3-DC_Shell 3
+    100290: -3-DC_Shell 4
+    100292: -3-DC_Shell 5
+    100294: -3-DC_Shell 6
+    100296: -3-DC_Shell 7
+    100298: -3-DC_Shell 8
+    100300: -3-DC_Shell 9
+    100302: -4
+    100304: -4 1
+    100306: -4-DC_Shell
+    100308: -4-DC_Shell 1
+    100310: -5
+    100312: -5 1
+    100314: -6
+    100316: -6 1
+    100318: -6 2
+    100320: -6 3
+    100322: -6-DC_Shell
+    100324: -6-DC_Shell 1
+    100326: -6-DC_Shell 2
+    100328: -6-DC_Shell 3
+    100330: -8
+    100332: -8 1
+    100334: -8 2
+    100336: -8 3
+    100338: -8-DC_Shell
+    100340: -8-DC_Shell 1
+    100342: -8-DC_Shell 2
+    100344: -8-DC_Shell 3
+    100346: 1
+    100348: 1 1
+    100350: 1 10
+    100352: 1 11
+    100354: 1 12
+    100356: 1 13
+    100358: 1 2
+    100360: 1 3
+    100362: 1 4
+    100364: 1 5
+    100366: 1 6
+    100368: 1 7
+    100370: 1 8
+    100372: 1 9
+    100374: 1-DC_Shell
+    100376: 1-DC_Shell 1
+    100378: 1-DC_Shell 2
+    100380: 1-DC_Shell 3
+    100382: 1-DC_Shell 4
+    100384: 1-DC_Shell 5
+    100386: 1-DC_Shell 6
+    100388: 1-DC_Shell 7
+    100390: 2
+    100392: 2 1
+    100394: 2 10
+    100396: 2 11
+    100398: 2 12
+    100400: 2 13
+    100402: 2 14
+    100404: 2 15
+    100406: 2 2
+    100408: 2 3
+    100410: 2 4
+    100412: 2 5
+    100414: 2 6
+    100416: 2 7
+    100418: 2 8
+    100420: 2 9
+    100422: 2-DC_Shell
+    100424: 2-DC_Shell 1
+    100426: 2-DC_Shell 2
+    100428: 2-DC_Shell 3
+    100430: 201
+    100432: 201 1
+    100434: 201 10
+    100436: 201 11
+    100438: 201 2
+    100440: 201 3
+    100442: 201 4
+    100444: 201 5
+    100446: 201 6
+    100448: 201 7
+    100450: 201 8
+    100452: 201 9
+    100454: 202
+    100456: 202 1
+    100458: 202 10
+    100460: 202 11
+    100462: 202 2
+    100464: 202 3
+    100466: 202 4
+    100468: 202 5
+    100470: 202 6
+    100472: 202 7
+    100474: 202 8
+    100476: 202 9
+    100478: 20X20X64
+    100480: 20X20X64 1
+    100482: 20X20X64 2
+    100484: 20X20X64 3
+    100486: 3
+    100488: 3 1
+    100490: 3 10
+    100492: 3 11
+    100494: 3 2
+    100496: 3 3
+    100498: 3 4
+    100500: 3 5
+    100502: 3 6
+    100504: 3 7
+    100506: 3 8
+    100508: 3 9
+    100510: 3D
+    100512: 3D 1
+    100514: 3D 2
+    100516: 3D 3
+    100518: 3D 4
+    100520: 3D 5
+    100522: 4
+    100524: 4 1
+    100526: 4 2
+    100528: 4 3
+    100530: 4 4
+    100532: 4 5
+    100534: 5
+    100536: 5 1
+    100538: 5 2
+    100540: 5 3
+    100542: 5 4
+    100544: 5 5
+    100546: dummyName 1
+    100548: dummyName 10
+    100550: dummyName 11
+    100552: dummyName 12
+    100554: dummyName 13
+    100556: dummyName 14
+    100558: dummyName 15
+    100560: dummyName 16
+    100562: dummyName 17
+    100564: dummyName 18
+    100566: dummyName 19
+    100568: dummyName 2
+    100570: dummyName 20
+    100572: dummyName 21
+    100574: dummyName 22
+    100576: dummyName 23
+    100578: dummyName 24
+    100580: dummyName 25
+    100582: dummyName 26
+    100584: dummyName 27
+    100586: dummyName 28
+    100588: dummyName 29
+    100590: dummyName 3
+    100592: dummyName 30
+    100594: dummyName 31
+    100596: dummyName 32
+    100598: dummyName 33
+    100600: dummyName 34
+    100602: dummyName 35
+    100604: dummyName 36
+    100606: dummyName 37
+    100608: dummyName 38
+    100610: dummyName 39
+    100612: dummyName 4
+    100614: dummyName 5
+    100616: dummyName 6
+    100618: dummyName 7
+    100620: dummyName 8
+    100622: dummyName 9
+    100624: NONE
+    100626: NONE 1
+    100628: NONE 10
+    100630: NONE 11
+    100632: NONE 12
+    100634: NONE 13
+    100636: NONE 14
+    100638: NONE 15
+    100640: NONE 16
+    100642: NONE 17
+    100644: NONE 18
+    100646: NONE 19
+    100648: NONE 2
+    100650: NONE 20
+    100652: NONE 21
+    100654: NONE 22
+    100656: NONE 23
+    100658: NONE 24
+    100660: NONE 25
+    100662: NONE 26
+    100664: NONE 27
+    100666: NONE 28
+    100668: NONE 29
+    100670: NONE 3
+    100672: NONE 30
+    100674: NONE 31
+    100676: NONE 32
+    100678: NONE 33
+    100680: NONE 34
+    100682: NONE 35
+    100684: NONE 36
+    100686: NONE 37
+    100688: NONE 38
+    100690: NONE 39
+    100692: NONE 4
+    100694: NONE 40
+    100696: NONE 41
+    100698: NONE 42
+    100700: NONE 43
+    100702: NONE 44
+    100704: NONE 45
+    100706: NONE 46
+    100708: NONE 47
+    100710: NONE 48
+    100712: NONE 49
+    100714: NONE 5
+    100716: NONE 50
+    100718: NONE 6
+    100720: NONE 7
+    100722: NONE 8
+    100724: NONE 9
+    100726: NONE-DC_Shell
+    100728: NONE-DC_Shell 1
+    100730: NONE-DC_Shell 10
+    100732: NONE-DC_Shell 11
+    100734: NONE-DC_Shell 12
+    100736: NONE-DC_Shell 13
+    100738: NONE-DC_Shell 14
+    100740: NONE-DC_Shell 15
+    100742: NONE-DC_Shell 2
+    100744: NONE-DC_Shell 3
+    100746: NONE-DC_Shell 4
+    100748: NONE-DC_Shell 5
+    100750: NONE-DC_Shell 6
+    100752: NONE-DC_Shell 7
+    100754: NONE-DC_Shell 8
+    100756: NONE-DC_Shell 9
+    100758: T8
+    100760: T8 1
+    100762: T8 2
+    100764: T8 3
+    100766: T8 4
+    100768: T8 5
+    100770: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  24'
+    400036: '  25'
+    400038: '  26'
+    400040: '  27'
+    400042: '  28'
+    400044: '  29'
+    400046: '  3'
+    400048: '  30'
+    400050: '  31'
+    400052: '  32'
+    400054: '  33'
+    400056: '  34'
+    400058: '  35'
+    400060: '  36'
+    400062: '  37'
+    400064: '  38'
+    400066: '  39'
+    400068: '  4'
+    400070: '  40'
+    400072: '  41'
+    400074: '  42'
+    400076: '  43'
+    400078: '  44'
+    400080: '  45'
+    400082: '  46'
+    400084: '  5'
+    400086: '  6'
+    400088: '  7'
+    400090: '  8'
+    400092: '  9'
+    400094: ' 1'
+    400096: ' 10'
+    400098: ' 11'
+    400100: ' 12'
+    400102: ' 13'
+    400104: ' 14'
+    400106: ' 15'
+    400108: ' 16'
+    400110: ' 17'
+    400112: ' 18'
+    400114: ' 19'
+    400116: ' 2'
+    400118: ' 20'
+    400120: ' 21'
+    400122: ' 22'
+    400124: ' 23'
+    400126: ' 24'
+    400128: ' 25'
+    400130: ' 26'
+    400132: ' 27'
+    400134: ' 28'
+    400136: ' 29'
+    400138: ' 3'
+    400140: ' 30'
+    400142: ' 31'
+    400144: ' 32'
+    400146: ' 33'
+    400148: ' 34'
+    400150: ' 35'
+    400152: ' 36'
+    400154: ' 37'
+    400156: ' 38'
+    400158: ' 39'
+    400160: ' 4'
+    400162: ' 40'
+    400164: ' 41'
+    400166: ' 42'
+    400168: ' 43'
+    400170: ' 44'
+    400172: ' 45'
+    400174: ' 46'
+    400176: ' 47'
+    400178: ' 48'
+    400180: ' 49'
+    400182: ' 5'
+    400184: ' 50'
+    400186: ' 51'
+    400188: ' 52'
+    400190: ' 53'
+    400192: ' 54'
+    400194: ' 55'
+    400196: ' 56'
+    400198: ' 57'
+    400200: ' 58'
+    400202: ' 59'
+    400204: ' 6'
+    400206: ' 60'
+    400208: ' 61'
+    400210: ' 62'
+    400212: ' 63'
+    400214: ' 64'
+    400216: ' 7'
+    400218: ' 8'
+    400220: ' 9'
+    400222: -1
+    400224: -1 1
+    400226: -1 2
+    400228: -1-DC_Shell
+    400230: -1-DC_Shell 1
+    400232: -1-DC_Shell 2
+    400234: -2
+    400236: -2 1
+    400238: -2 2
+    400240: -2 3
+    400242: -2-DC_Shell
+    400244: -2-DC_Shell 1
+    400246: -3
+    400248: -3 1
+    400250: -3 10
+    400252: -3 11
+    400254: -3 12
+    400256: -3 13
+    400258: -3 2
+    400260: -3 3
+    400262: -3 4
+    400264: -3 5
+    400266: -3 6
+    400268: -3 7
+    400270: -3 8
+    400272: -3 9
+    400274: -3-DC_Shell
+    400276: -3-DC_Shell 1
+    400278: -3-DC_Shell 10
+    400280: -3-DC_Shell 11
+    400282: -3-DC_Shell 12
+    400284: -3-DC_Shell 13
+    400286: -3-DC_Shell 2
+    400288: -3-DC_Shell 3
+    400290: -3-DC_Shell 4
+    400292: -3-DC_Shell 5
+    400294: -3-DC_Shell 6
+    400296: -3-DC_Shell 7
+    400298: -3-DC_Shell 8
+    400300: -3-DC_Shell 9
+    400302: -4
+    400304: -4 1
+    400306: -4-DC_Shell
+    400308: -4-DC_Shell 1
+    400310: -5
+    400312: -5 1
+    400314: -6
+    400316: -6 1
+    400318: -6 2
+    400320: -6 3
+    400322: -6-DC_Shell
+    400324: -6-DC_Shell 1
+    400326: -6-DC_Shell 2
+    400328: -6-DC_Shell 3
+    400330: -8
+    400332: -8 1
+    400334: -8 2
+    400336: -8 3
+    400338: -8-DC_Shell
+    400340: -8-DC_Shell 1
+    400342: -8-DC_Shell 2
+    400344: -8-DC_Shell 3
+    400346: 1
+    400348: 1 1
+    400350: 1 10
+    400352: 1 11
+    400354: 1 12
+    400356: 1 13
+    400358: 1 2
+    400360: 1 3
+    400362: 1 4
+    400364: 1 5
+    400366: 1 6
+    400368: 1 7
+    400370: 1 8
+    400372: 1 9
+    400374: 1-DC_Shell
+    400376: 1-DC_Shell 1
+    400378: 1-DC_Shell 2
+    400380: 1-DC_Shell 3
+    400382: 1-DC_Shell 4
+    400384: 1-DC_Shell 5
+    400386: 1-DC_Shell 6
+    400388: 1-DC_Shell 7
+    400390: 2
+    400392: 2 1
+    400394: 2 10
+    400396: 2 11
+    400398: 2 12
+    400400: 2 13
+    400402: 2 14
+    400404: 2 15
+    400406: 2 2
+    400408: 2 3
+    400410: 2 4
+    400412: 2 5
+    400414: 2 6
+    400416: 2 7
+    400418: 2 8
+    400420: 2 9
+    400422: 2-DC_Shell
+    400424: 2-DC_Shell 1
+    400426: 2-DC_Shell 2
+    400428: 2-DC_Shell 3
+    400430: 201
+    400432: 201 1
+    400434: 201 10
+    400436: 201 11
+    400438: 201 2
+    400440: 201 3
+    400442: 201 4
+    400444: 201 5
+    400446: 201 6
+    400448: 201 7
+    400450: 201 8
+    400452: 201 9
+    400454: 202
+    400456: 202 1
+    400458: 202 10
+    400460: 202 11
+    400462: 202 2
+    400464: 202 3
+    400466: 202 4
+    400468: 202 5
+    400470: 202 6
+    400472: 202 7
+    400474: 202 8
+    400476: 202 9
+    400478: 20X20X64
+    400480: 20X20X64 1
+    400482: 20X20X64 2
+    400484: 20X20X64 3
+    400486: 3
+    400488: 3 1
+    400490: 3 10
+    400492: 3 11
+    400494: 3 2
+    400496: 3 3
+    400498: 3 4
+    400500: 3 5
+    400502: 3 6
+    400504: 3 7
+    400506: 3 8
+    400508: 3 9
+    400510: 3D
+    400512: 3D 1
+    400514: 3D 2
+    400516: 3D 3
+    400518: 3D 4
+    400520: 3D 5
+    400522: 4
+    400524: 4 1
+    400526: 4 2
+    400528: 4 3
+    400530: 4 4
+    400532: 4 5
+    400534: 5
+    400536: 5 1
+    400538: 5 2
+    400540: 5 3
+    400542: 5 4
+    400544: 5 5
+    400546: dummyName 1
+    400548: dummyName 10
+    400550: dummyName 11
+    400552: dummyName 12
+    400554: dummyName 13
+    400556: dummyName 14
+    400558: dummyName 15
+    400560: dummyName 16
+    400562: dummyName 17
+    400564: dummyName 18
+    400566: dummyName 19
+    400568: dummyName 2
+    400570: dummyName 20
+    400572: dummyName 21
+    400574: dummyName 22
+    400576: dummyName 23
+    400578: dummyName 24
+    400580: dummyName 25
+    400582: dummyName 26
+    400584: dummyName 27
+    400586: dummyName 28
+    400588: dummyName 29
+    400590: dummyName 3
+    400592: dummyName 30
+    400594: dummyName 31
+    400596: dummyName 32
+    400598: dummyName 33
+    400600: dummyName 34
+    400602: dummyName 35
+    400604: dummyName 36
+    400606: dummyName 37
+    400608: dummyName 38
+    400610: dummyName 39
+    400612: dummyName 4
+    400614: dummyName 5
+    400616: dummyName 6
+    400618: dummyName 7
+    400620: dummyName 8
+    400622: dummyName 9
+    400624: NONE
+    400626: NONE 1
+    400628: NONE 10
+    400630: NONE 11
+    400632: NONE 12
+    400634: NONE 13
+    400636: NONE 14
+    400638: NONE 15
+    400640: NONE 16
+    400642: NONE 17
+    400644: NONE 18
+    400646: NONE 19
+    400648: NONE 2
+    400650: NONE 20
+    400652: NONE 21
+    400654: NONE 22
+    400656: NONE 23
+    400658: NONE 24
+    400660: NONE 25
+    400662: NONE 26
+    400664: NONE 27
+    400666: NONE 28
+    400668: NONE 29
+    400670: NONE 3
+    400672: NONE 30
+    400674: NONE 31
+    400676: NONE 32
+    400678: NONE 33
+    400680: NONE 34
+    400682: NONE 35
+    400684: NONE 36
+    400686: NONE 37
+    400688: NONE 38
+    400690: NONE 39
+    400692: NONE 4
+    400694: NONE 40
+    400696: NONE 41
+    400698: NONE 42
+    400700: NONE 43
+    400702: NONE 44
+    400704: NONE 45
+    400706: NONE 46
+    400708: NONE 47
+    400710: NONE 48
+    400712: NONE 49
+    400714: NONE 5
+    400716: NONE 50
+    400718: NONE 6
+    400720: NONE 7
+    400722: NONE 8
+    400724: NONE 9
+    400726: NONE-DC_Shell
+    400728: NONE-DC_Shell 1
+    400730: NONE-DC_Shell 10
+    400732: NONE-DC_Shell 11
+    400734: NONE-DC_Shell 12
+    400736: NONE-DC_Shell 13
+    400738: NONE-DC_Shell 14
+    400740: NONE-DC_Shell 15
+    400742: NONE-DC_Shell 2
+    400744: NONE-DC_Shell 3
+    400746: NONE-DC_Shell 4
+    400748: NONE-DC_Shell 5
+    400750: NONE-DC_Shell 6
+    400752: NONE-DC_Shell 7
+    400754: NONE-DC_Shell 8
+    400756: NONE-DC_Shell 9
+    400758: T8
+    400760: T8 1
+    400762: T8 2
+    400764: T8 3
+    400766: T8 4
+    400768: T8 5
+    400770: //RootNode
+    2300000: -1-DC_Shell
+    2300002: -1-DC_Shell 1
+    2300004: -1-DC_Shell 2
+    2300006: -2-DC_Shell
+    2300008: -2-DC_Shell 1
+    2300010: -3-DC_Shell
+    2300012: -3-DC_Shell 1
+    2300014: -3-DC_Shell 10
+    2300016: -3-DC_Shell 11
+    2300018: -3-DC_Shell 12
+    2300020: -3-DC_Shell 13
+    2300022: -3-DC_Shell 2
+    2300024: -3-DC_Shell 3
+    2300026: -3-DC_Shell 4
+    2300028: -3-DC_Shell 5
+    2300030: -3-DC_Shell 6
+    2300032: -3-DC_Shell 7
+    2300034: -3-DC_Shell 8
+    2300036: -3-DC_Shell 9
+    2300038: -4-DC_Shell
+    2300040: -4-DC_Shell 1
+    2300042: -6-DC_Shell
+    2300044: -6-DC_Shell 1
+    2300046: -6-DC_Shell 2
+    2300048: -6-DC_Shell 3
+    2300050: -8-DC_Shell
+    2300052: -8-DC_Shell 1
+    2300054: -8-DC_Shell 2
+    2300056: -8-DC_Shell 3
+    2300058: 1-DC_Shell
+    2300060: 1-DC_Shell 1
+    2300062: 1-DC_Shell 2
+    2300064: 1-DC_Shell 3
+    2300066: 1-DC_Shell 4
+    2300068: 1-DC_Shell 5
+    2300070: 1-DC_Shell 6
+    2300072: 1-DC_Shell 7
+    2300074: 2-DC_Shell
+    2300076: 2-DC_Shell 1
+    2300078: 2-DC_Shell 2
+    2300080: 2-DC_Shell 3
+    2300082: NONE-DC_Shell
+    2300084: NONE-DC_Shell 1
+    2300086: NONE-DC_Shell 10
+    2300088: NONE-DC_Shell 11
+    2300090: NONE-DC_Shell 12
+    2300092: NONE-DC_Shell 13
+    2300094: NONE-DC_Shell 14
+    2300096: NONE-DC_Shell 15
+    2300098: NONE-DC_Shell 2
+    2300100: NONE-DC_Shell 3
+    2300102: NONE-DC_Shell 4
+    2300104: NONE-DC_Shell 5
+    2300106: NONE-DC_Shell 6
+    2300108: NONE-DC_Shell 7
+    2300110: NONE-DC_Shell 8
+    2300112: NONE-DC_Shell 9
+    3300000: -1-DC_Shell
+    3300002: -1-DC_Shell 1
+    3300004: -1-DC_Shell 2
+    3300006: -2-DC_Shell
+    3300008: -2-DC_Shell 1
+    3300010: -3-DC_Shell
+    3300012: -3-DC_Shell 1
+    3300014: -3-DC_Shell 10
+    3300016: -3-DC_Shell 11
+    3300018: -3-DC_Shell 12
+    3300020: -3-DC_Shell 13
+    3300022: -3-DC_Shell 2
+    3300024: -3-DC_Shell 3
+    3300026: -3-DC_Shell 4
+    3300028: -3-DC_Shell 5
+    3300030: -3-DC_Shell 6
+    3300032: -3-DC_Shell 7
+    3300034: -3-DC_Shell 8
+    3300036: -3-DC_Shell 9
+    3300038: -4-DC_Shell
+    3300040: -4-DC_Shell 1
+    3300042: -6-DC_Shell
+    3300044: -6-DC_Shell 1
+    3300046: -6-DC_Shell 2
+    3300048: -6-DC_Shell 3
+    3300050: -8-DC_Shell
+    3300052: -8-DC_Shell 1
+    3300054: -8-DC_Shell 2
+    3300056: -8-DC_Shell 3
+    3300058: 1-DC_Shell
+    3300060: 1-DC_Shell 1
+    3300062: 1-DC_Shell 2
+    3300064: 1-DC_Shell 3
+    3300066: 1-DC_Shell 4
+    3300068: 1-DC_Shell 5
+    3300070: 1-DC_Shell 6
+    3300072: 1-DC_Shell 7
+    3300074: 2-DC_Shell
+    3300076: 2-DC_Shell 1
+    3300078: 2-DC_Shell 2
+    3300080: 2-DC_Shell 3
+    3300082: NONE-DC_Shell
+    3300084: NONE-DC_Shell 1
+    3300086: NONE-DC_Shell 10
+    3300088: NONE-DC_Shell 11
+    3300090: NONE-DC_Shell 12
+    3300092: NONE-DC_Shell 13
+    3300094: NONE-DC_Shell 14
+    3300096: NONE-DC_Shell 15
+    3300098: NONE-DC_Shell 2
+    3300100: NONE-DC_Shell 3
+    3300102: NONE-DC_Shell 4
+    3300104: NONE-DC_Shell 5
+    3300106: NONE-DC_Shell 6
+    3300108: NONE-DC_Shell 7
+    3300110: NONE-DC_Shell 8
+    3300112: NONE-DC_Shell 9
+    4300000: -3-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: NONE-DC_Shell
+    4300012: NONE-DC_Shell
+    4300014: NONE-DC_Shell
+    4300016: -3-DC_Shell
+    4300018: -3-DC_Shell
+    4300020: -3-DC_Shell
+    4300022: -3-DC_Shell
+    4300024: -2-DC_Shell
+    4300026: -1-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: 2-DC_Shell
+    4300032: 2-DC_Shell
+    4300034: -8-DC_Shell
+    4300036: -6-DC_Shell
+    4300038: -8-DC_Shell
+    4300040: -6-DC_Shell
+    4300042: -3-DC_Shell
+    4300044: -3-DC_Shell
+    4300046: 1-DC_Shell
+    4300048: 1-DC_Shell
+    4300050: 1-DC_Shell
+    4300052: 1-DC_Shell
+    4300054: -4-DC_Shell
+    4300056: -3-DC_Shell
+    4300058: NONE-DC_Shell
+    4300060: NONE-DC_Shell
+    4300062: NONE-DC_Shell
+    4300064: NONE-DC_Shell
+    4300066: NONE-DC_Shell
+    4300068: NONE-DC_Shell
+    4300070: NONE-DC_Shell
+    4300072: -3-DC_Shell
+    4300074: -3-DC_Shell
+    4300076: -3-DC_Shell
+    4300078: -3-DC_Shell
+    4300080: -2-DC_Shell
+    4300082: -1-DC_Shell
+    4300084: NONE-DC_Shell
+    4300086: 2-DC_Shell
+    4300088: 2-DC_Shell
+    4300090: -8-DC_Shell
+    4300092: -6-DC_Shell
+    4300094: -8-DC_Shell
+    4300096: -6-DC_Shell
+    4300098: -3-DC_Shell
+    4300100: -3-DC_Shell
+    4300102: 1-DC_Shell
+    4300104: 1-DC_Shell
+    4300106: 1-DC_Shell
+    4300108: 1-DC_Shell
+    4300110: -4-DC_Shell
+    4300112: -1-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

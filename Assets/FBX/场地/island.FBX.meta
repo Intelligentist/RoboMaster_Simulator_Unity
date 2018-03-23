@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 111688897e8e11647bf5fa3c7ed8e9a4
+timeCreated: 1504784281
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ()2
+    100002: 0 1
+    100004: 0 2
+    100006: //RootNode
+    100008: NONE
+    100010: NONE 1
+    100012: NONE-DC_Shell
+    100014: NONE-DC_Shell 1
+    100016: NONE-DC_Shell 10
+    100018: NONE-DC_Shell 100
+    100020: NONE-DC_Shell 101
+    100022: NONE-DC_Shell 102
+    100024: NONE-DC_Shell 103
+    100026: NONE-DC_Shell 104
+    100028: NONE-DC_Shell 105
+    100030: NONE-DC_Shell 106
+    100032: NONE-DC_Shell 107
+    100034: NONE-DC_Shell 108
+    100036: NONE-DC_Shell 109
+    100038: NONE-DC_Shell 11
+    100040: NONE-DC_Shell 110
+    100042: NONE-DC_Shell 111
+    100044: NONE-DC_Shell 112
+    100046: NONE-DC_Shell 113
+    100048: NONE-DC_Shell 114
+    100050: NONE-DC_Shell 115
+    100052: NONE-DC_Shell 116
+    100054: NONE-DC_Shell 117
+    100056: NONE-DC_Shell 118
+    100058: NONE-DC_Shell 119
+    100060: NONE-DC_Shell 12
+    100062: NONE-DC_Shell 120
+    100064: NONE-DC_Shell 121
+    100066: NONE-DC_Shell 122
+    100068: NONE-DC_Shell 123
+    100070: NONE-DC_Shell 124
+    100072: NONE-DC_Shell 125
+    100074: NONE-DC_Shell 126
+    100076: NONE-DC_Shell 127
+    100078: NONE-DC_Shell 128
+    100080: NONE-DC_Shell 129
+    100082: NONE-DC_Shell 13
+    100084: NONE-DC_Shell 130
+    100086: NONE-DC_Shell 131
+    100088: NONE-DC_Shell 132
+    100090: NONE-DC_Shell 133
+    100092: NONE-DC_Shell 134
+    100094: NONE-DC_Shell 135
+    100096: NONE-DC_Shell 136
+    100098: NONE-DC_Shell 137
+    100100: NONE-DC_Shell 138
+    100102: NONE-DC_Shell 139
+    100104: NONE-DC_Shell 14
+    100106: NONE-DC_Shell 140
+    100108: NONE-DC_Shell 141
+    100110: NONE-DC_Shell 142
+    100112: NONE-DC_Shell 143
+    100114: NONE-DC_Shell 144
+    100116: NONE-DC_Shell 145
+    100118: NONE-DC_Shell 146
+    100120: NONE-DC_Shell 147
+    100122: NONE-DC_Shell 148
+    100124: NONE-DC_Shell 149
+    100126: NONE-DC_Shell 15
+    100128: NONE-DC_Shell 150
+    100130: NONE-DC_Shell 151
+    100132: NONE-DC_Shell 152
+    100134: NONE-DC_Shell 153
+    100136: NONE-DC_Shell 154
+    100138: NONE-DC_Shell 155
+    100140: NONE-DC_Shell 156
+    100142: NONE-DC_Shell 157
+    100144: NONE-DC_Shell 158
+    100146: NONE-DC_Shell 159
+    100148: NONE-DC_Shell 16
+    100150: NONE-DC_Shell 160
+    100152: NONE-DC_Shell 17
+    100154: NONE-DC_Shell 18
+    100156: NONE-DC_Shell 19
+    100158: NONE-DC_Shell 2
+    100160: NONE-DC_Shell 20
+    100162: NONE-DC_Shell 21
+    100164: NONE-DC_Shell 22
+    100166: NONE-DC_Shell 23
+    100168: NONE-DC_Shell 24
+    100170: NONE-DC_Shell 25
+    100172: NONE-DC_Shell 26
+    100174: NONE-DC_Shell 27
+    100176: NONE-DC_Shell 28
+    100178: NONE-DC_Shell 29
+    100180: NONE-DC_Shell 3
+    100182: NONE-DC_Shell 30
+    100184: NONE-DC_Shell 31
+    100186: NONE-DC_Shell 32
+    100188: NONE-DC_Shell 33
+    100190: NONE-DC_Shell 34
+    100192: NONE-DC_Shell 35
+    100194: NONE-DC_Shell 36
+    100196: NONE-DC_Shell 37
+    100198: NONE-DC_Shell 38
+    100200: NONE-DC_Shell 39
+    100202: NONE-DC_Shell 4
+    100204: NONE-DC_Shell 40
+    100206: NONE-DC_Shell 41
+    100208: NONE-DC_Shell 42
+    100210: NONE-DC_Shell 43
+    100212: NONE-DC_Shell 44
+    100214: NONE-DC_Shell 45
+    100216: NONE-DC_Shell 46
+    100218: NONE-DC_Shell 47
+    100220: NONE-DC_Shell 48
+    100222: NONE-DC_Shell 49
+    100224: NONE-DC_Shell 5
+    100226: NONE-DC_Shell 50
+    100228: NONE-DC_Shell 51
+    100230: NONE-DC_Shell 52
+    100232: NONE-DC_Shell 53
+    100234: NONE-DC_Shell 54
+    100236: NONE-DC_Shell 55
+    100238: NONE-DC_Shell 56
+    100240: NONE-DC_Shell 57
+    100242: NONE-DC_Shell 58
+    100244: NONE-DC_Shell 59
+    100246: NONE-DC_Shell 6
+    100248: NONE-DC_Shell 60
+    100250: NONE-DC_Shell 61
+    100252: NONE-DC_Shell 62
+    100254: NONE-DC_Shell 63
+    100256: NONE-DC_Shell 64
+    100258: NONE-DC_Shell 65
+    100260: NONE-DC_Shell 66
+    100262: NONE-DC_Shell 67
+    100264: NONE-DC_Shell 68
+    100266: NONE-DC_Shell 69
+    100268: NONE-DC_Shell 7
+    100270: NONE-DC_Shell 70
+    100272: NONE-DC_Shell 71
+    100274: NONE-DC_Shell 72
+    100276: NONE-DC_Shell 73
+    100278: NONE-DC_Shell 74
+    100280: NONE-DC_Shell 75
+    100282: NONE-DC_Shell 76
+    100284: NONE-DC_Shell 77
+    100286: NONE-DC_Shell 78
+    100288: NONE-DC_Shell 79
+    100290: NONE-DC_Shell 8
+    100292: NONE-DC_Shell 80
+    100294: NONE-DC_Shell 81
+    100296: NONE-DC_Shell 82
+    100298: NONE-DC_Shell 83
+    100300: NONE-DC_Shell 84
+    100302: NONE-DC_Shell 85
+    100304: NONE-DC_Shell 86
+    100306: NONE-DC_Shell 87
+    100308: NONE-DC_Shell 88
+    100310: NONE-DC_Shell 89
+    100312: NONE-DC_Shell 9
+    100314: NONE-DC_Shell 90
+    100316: NONE-DC_Shell 91
+    100318: NONE-DC_Shell 92
+    100320: NONE-DC_Shell 93
+    100322: NONE-DC_Shell 94
+    100324: NONE-DC_Shell 95
+    100326: NONE-DC_Shell 96
+    100328: NONE-DC_Shell 97
+    100330: NONE-DC_Shell 98
+    100332: NONE-DC_Shell 99
+    400000: ()2
+    400002: 0 1
+    400004: 0 2
+    400006: //RootNode
+    400008: NONE
+    400010: NONE 1
+    400012: NONE-DC_Shell
+    400014: NONE-DC_Shell 1
+    400016: NONE-DC_Shell 10
+    400018: NONE-DC_Shell 100
+    400020: NONE-DC_Shell 101
+    400022: NONE-DC_Shell 102
+    400024: NONE-DC_Shell 103
+    400026: NONE-DC_Shell 104
+    400028: NONE-DC_Shell 105
+    400030: NONE-DC_Shell 106
+    400032: NONE-DC_Shell 107
+    400034: NONE-DC_Shell 108
+    400036: NONE-DC_Shell 109
+    400038: NONE-DC_Shell 11
+    400040: NONE-DC_Shell 110
+    400042: NONE-DC_Shell 111
+    400044: NONE-DC_Shell 112
+    400046: NONE-DC_Shell 113
+    400048: NONE-DC_Shell 114
+    400050: NONE-DC_Shell 115
+    400052: NONE-DC_Shell 116
+    400054: NONE-DC_Shell 117
+    400056: NONE-DC_Shell 118
+    400058: NONE-DC_Shell 119
+    400060: NONE-DC_Shell 12
+    400062: NONE-DC_Shell 120
+    400064: NONE-DC_Shell 121
+    400066: NONE-DC_Shell 122
+    400068: NONE-DC_Shell 123
+    400070: NONE-DC_Shell 124
+    400072: NONE-DC_Shell 125
+    400074: NONE-DC_Shell 126
+    400076: NONE-DC_Shell 127
+    400078: NONE-DC_Shell 128
+    400080: NONE-DC_Shell 129
+    400082: NONE-DC_Shell 13
+    400084: NONE-DC_Shell 130
+    400086: NONE-DC_Shell 131
+    400088: NONE-DC_Shell 132
+    400090: NONE-DC_Shell 133
+    400092: NONE-DC_Shell 134
+    400094: NONE-DC_Shell 135
+    400096: NONE-DC_Shell 136
+    400098: NONE-DC_Shell 137
+    400100: NONE-DC_Shell 138
+    400102: NONE-DC_Shell 139
+    400104: NONE-DC_Shell 14
+    400106: NONE-DC_Shell 140
+    400108: NONE-DC_Shell 141
+    400110: NONE-DC_Shell 142
+    400112: NONE-DC_Shell 143
+    400114: NONE-DC_Shell 144
+    400116: NONE-DC_Shell 145
+    400118: NONE-DC_Shell 146
+    400120: NONE-DC_Shell 147
+    400122: NONE-DC_Shell 148
+    400124: NONE-DC_Shell 149
+    400126: NONE-DC_Shell 15
+    400128: NONE-DC_Shell 150
+    400130: NONE-DC_Shell 151
+    400132: NONE-DC_Shell 152
+    400134: NONE-DC_Shell 153
+    400136: NONE-DC_Shell 154
+    400138: NONE-DC_Shell 155
+    400140: NONE-DC_Shell 156
+    400142: NONE-DC_Shell 157
+    400144: NONE-DC_Shell 158
+    400146: NONE-DC_Shell 159
+    400148: NONE-DC_Shell 16
+    400150: NONE-DC_Shell 160
+    400152: NONE-DC_Shell 17
+    400154: NONE-DC_Shell 18
+    400156: NONE-DC_Shell 19
+    400158: NONE-DC_Shell 2
+    400160: NONE-DC_Shell 20
+    400162: NONE-DC_Shell 21
+    400164: NONE-DC_Shell 22
+    400166: NONE-DC_Shell 23
+    400168: NONE-DC_Shell 24
+    400170: NONE-DC_Shell 25
+    400172: NONE-DC_Shell 26
+    400174: NONE-DC_Shell 27
+    400176: NONE-DC_Shell 28
+    400178: NONE-DC_Shell 29
+    400180: NONE-DC_Shell 3
+    400182: NONE-DC_Shell 30
+    400184: NONE-DC_Shell 31
+    400186: NONE-DC_Shell 32
+    400188: NONE-DC_Shell 33
+    400190: NONE-DC_Shell 34
+    400192: NONE-DC_Shell 35
+    400194: NONE-DC_Shell 36
+    400196: NONE-DC_Shell 37
+    400198: NONE-DC_Shell 38
+    400200: NONE-DC_Shell 39
+    400202: NONE-DC_Shell 4
+    400204: NONE-DC_Shell 40
+    400206: NONE-DC_Shell 41
+    400208: NONE-DC_Shell 42
+    400210: NONE-DC_Shell 43
+    400212: NONE-DC_Shell 44
+    400214: NONE-DC_Shell 45
+    400216: NONE-DC_Shell 46
+    400218: NONE-DC_Shell 47
+    400220: NONE-DC_Shell 48
+    400222: NONE-DC_Shell 49
+    400224: NONE-DC_Shell 5
+    400226: NONE-DC_Shell 50
+    400228: NONE-DC_Shell 51
+    400230: NONE-DC_Shell 52
+    400232: NONE-DC_Shell 53
+    400234: NONE-DC_Shell 54
+    400236: NONE-DC_Shell 55
+    400238: NONE-DC_Shell 56
+    400240: NONE-DC_Shell 57
+    400242: NONE-DC_Shell 58
+    400244: NONE-DC_Shell 59
+    400246: NONE-DC_Shell 6
+    400248: NONE-DC_Shell 60
+    400250: NONE-DC_Shell 61
+    400252: NONE-DC_Shell 62
+    400254: NONE-DC_Shell 63
+    400256: NONE-DC_Shell 64
+    400258: NONE-DC_Shell 65
+    400260: NONE-DC_Shell 66
+    400262: NONE-DC_Shell 67
+    400264: NONE-DC_Shell 68
+    400266: NONE-DC_Shell 69
+    400268: NONE-DC_Shell 7
+    400270: NONE-DC_Shell 70
+    400272: NONE-DC_Shell 71
+    400274: NONE-DC_Shell 72
+    400276: NONE-DC_Shell 73
+    400278: NONE-DC_Shell 74
+    400280: NONE-DC_Shell 75
+    400282: NONE-DC_Shell 76
+    400284: NONE-DC_Shell 77
+    400286: NONE-DC_Shell 78
+    400288: NONE-DC_Shell 79
+    400290: NONE-DC_Shell 8
+    400292: NONE-DC_Shell 80
+    400294: NONE-DC_Shell 81
+    400296: NONE-DC_Shell 82
+    400298: NONE-DC_Shell 83
+    400300: NONE-DC_Shell 84
+    400302: NONE-DC_Shell 85
+    400304: NONE-DC_Shell 86
+    400306: NONE-DC_Shell 87
+    400308: NONE-DC_Shell 88
+    400310: NONE-DC_Shell 89
+    400312: NONE-DC_Shell 9
+    400314: NONE-DC_Shell 90
+    400316: NONE-DC_Shell 91
+    400318: NONE-DC_Shell 92
+    400320: NONE-DC_Shell 93
+    400322: NONE-DC_Shell 94
+    400324: NONE-DC_Shell 95
+    400326: NONE-DC_Shell 96
+    400328: NONE-DC_Shell 97
+    400330: NONE-DC_Shell 98
+    400332: NONE-DC_Shell 99
+    2300000: NONE-DC_Shell
+    2300002: NONE-DC_Shell 1
+    2300004: NONE-DC_Shell 10
+    2300006: NONE-DC_Shell 100
+    2300008: NONE-DC_Shell 101
+    2300010: NONE-DC_Shell 102
+    2300012: NONE-DC_Shell 103
+    2300014: NONE-DC_Shell 104
+    2300016: NONE-DC_Shell 105
+    2300018: NONE-DC_Shell 106
+    2300020: NONE-DC_Shell 107
+    2300022: NONE-DC_Shell 108
+    2300024: NONE-DC_Shell 109
+    2300026: NONE-DC_Shell 11
+    2300028: NONE-DC_Shell 110
+    2300030: NONE-DC_Shell 111
+    2300032: NONE-DC_Shell 112
+    2300034: NONE-DC_Shell 113
+    2300036: NONE-DC_Shell 114
+    2300038: NONE-DC_Shell 115
+    2300040: NONE-DC_Shell 116
+    2300042: NONE-DC_Shell 117
+    2300044: NONE-DC_Shell 118
+    2300046: NONE-DC_Shell 119
+    2300048: NONE-DC_Shell 12
+    2300050: NONE-DC_Shell 120
+    2300052: NONE-DC_Shell 121
+    2300054: NONE-DC_Shell 122
+    2300056: NONE-DC_Shell 123
+    2300058: NONE-DC_Shell 124
+    2300060: NONE-DC_Shell 125
+    2300062: NONE-DC_Shell 126
+    2300064: NONE-DC_Shell 127
+    2300066: NONE-DC_Shell 128
+    2300068: NONE-DC_Shell 129
+    2300070: NONE-DC_Shell 13
+    2300072: NONE-DC_Shell 130
+    2300074: NONE-DC_Shell 131
+    2300076: NONE-DC_Shell 132
+    2300078: NONE-DC_Shell 133
+    2300080: NONE-DC_Shell 134
+    2300082: NONE-DC_Shell 135
+    2300084: NONE-DC_Shell 136
+    2300086: NONE-DC_Shell 137
+    2300088: NONE-DC_Shell 138
+    2300090: NONE-DC_Shell 139
+    2300092: NONE-DC_Shell 14
+    2300094: NONE-DC_Shell 140
+    2300096: NONE-DC_Shell 141
+    2300098: NONE-DC_Shell 142
+    2300100: NONE-DC_Shell 143
+    2300102: NONE-DC_Shell 144
+    2300104: NONE-DC_Shell 145
+    2300106: NONE-DC_Shell 146
+    2300108: NONE-DC_Shell 147
+    2300110: NONE-DC_Shell 148
+    2300112: NONE-DC_Shell 149
+    2300114: NONE-DC_Shell 15
+    2300116: NONE-DC_Shell 150
+    2300118: NONE-DC_Shell 151
+    2300120: NONE-DC_Shell 152
+    2300122: NONE-DC_Shell 153
+    2300124: NONE-DC_Shell 154
+    2300126: NONE-DC_Shell 155
+    2300128: NONE-DC_Shell 156
+    2300130: NONE-DC_Shell 157
+    2300132: NONE-DC_Shell 158
+    2300134: NONE-DC_Shell 159
+    2300136: NONE-DC_Shell 16
+    2300138: NONE-DC_Shell 160
+    2300140: NONE-DC_Shell 17
+    2300142: NONE-DC_Shell 18
+    2300144: NONE-DC_Shell 19
+    2300146: NONE-DC_Shell 2
+    2300148: NONE-DC_Shell 20
+    2300150: NONE-DC_Shell 21
+    2300152: NONE-DC_Shell 22
+    2300154: NONE-DC_Shell 23
+    2300156: NONE-DC_Shell 24
+    2300158: NONE-DC_Shell 25
+    2300160: NONE-DC_Shell 26
+    2300162: NONE-DC_Shell 27
+    2300164: NONE-DC_Shell 28
+    2300166: NONE-DC_Shell 29
+    2300168: NONE-DC_Shell 3
+    2300170: NONE-DC_Shell 30
+    2300172: NONE-DC_Shell 31
+    2300174: NONE-DC_Shell 32
+    2300176: NONE-DC_Shell 33
+    2300178: NONE-DC_Shell 34
+    2300180: NONE-DC_Shell 35
+    2300182: NONE-DC_Shell 36
+    2300184: NONE-DC_Shell 37
+    2300186: NONE-DC_Shell 38
+    2300188: NONE-DC_Shell 39
+    2300190: NONE-DC_Shell 4
+    2300192: NONE-DC_Shell 40
+    2300194: NONE-DC_Shell 41
+    2300196: NONE-DC_Shell 42
+    2300198: NONE-DC_Shell 43
+    2300200: NONE-DC_Shell 44
+    2300202: NONE-DC_Shell 45
+    2300204: NONE-DC_Shell 46
+    2300206: NONE-DC_Shell 47
+    2300208: NONE-DC_Shell 48
+    2300210: NONE-DC_Shell 49
+    2300212: NONE-DC_Shell 5
+    2300214: NONE-DC_Shell 50
+    2300216: NONE-DC_Shell 51
+    2300218: NONE-DC_Shell 52
+    2300220: NONE-DC_Shell 53
+    2300222: NONE-DC_Shell 54
+    2300224: NONE-DC_Shell 55
+    2300226: NONE-DC_Shell 56
+    2300228: NONE-DC_Shell 57
+    2300230: NONE-DC_Shell 58
+    2300232: NONE-DC_Shell 59
+    2300234: NONE-DC_Shell 6
+    2300236: NONE-DC_Shell 60
+    2300238: NONE-DC_Shell 61
+    2300240: NONE-DC_Shell 62
+    2300242: NONE-DC_Shell 63
+    2300244: NONE-DC_Shell 64
+    2300246: NONE-DC_Shell 65
+    2300248: NONE-DC_Shell 66
+    2300250: NONE-DC_Shell 67
+    2300252: NONE-DC_Shell 68
+    2300254: NONE-DC_Shell 69
+    2300256: NONE-DC_Shell 7
+    2300258: NONE-DC_Shell 70
+    2300260: NONE-DC_Shell 71
+    2300262: NONE-DC_Shell 72
+    2300264: NONE-DC_Shell 73
+    2300266: NONE-DC_Shell 74
+    2300268: NONE-DC_Shell 75
+    2300270: NONE-DC_Shell 76
+    2300272: NONE-DC_Shell 77
+    2300274: NONE-DC_Shell 78
+    2300276: NONE-DC_Shell 79
+    2300278: NONE-DC_Shell 8
+    2300280: NONE-DC_Shell 80
+    2300282: NONE-DC_Shell 81
+    2300284: NONE-DC_Shell 82
+    2300286: NONE-DC_Shell 83
+    2300288: NONE-DC_Shell 84
+    2300290: NONE-DC_Shell 85
+    2300292: NONE-DC_Shell 86
+    2300294: NONE-DC_Shell 87
+    2300296: NONE-DC_Shell 88
+    2300298: NONE-DC_Shell 89
+    2300300: NONE-DC_Shell 9
+    2300302: NONE-DC_Shell 90
+    2300304: NONE-DC_Shell 91
+    2300306: NONE-DC_Shell 92
+    2300308: NONE-DC_Shell 93
+    2300310: NONE-DC_Shell 94
+    2300312: NONE-DC_Shell 95
+    2300314: NONE-DC_Shell 96
+    2300316: NONE-DC_Shell 97
+    2300318: NONE-DC_Shell 98
+    2300320: NONE-DC_Shell 99
+    3300000: NONE-DC_Shell
+    3300002: NONE-DC_Shell 1
+    3300004: NONE-DC_Shell 10
+    3300006: NONE-DC_Shell 100
+    3300008: NONE-DC_Shell 101
+    3300010: NONE-DC_Shell 102
+    3300012: NONE-DC_Shell 103
+    3300014: NONE-DC_Shell 104
+    3300016: NONE-DC_Shell 105
+    3300018: NONE-DC_Shell 106
+    3300020: NONE-DC_Shell 107
+    3300022: NONE-DC_Shell 108
+    3300024: NONE-DC_Shell 109
+    3300026: NONE-DC_Shell 11
+    3300028: NONE-DC_Shell 110
+    3300030: NONE-DC_Shell 111
+    3300032: NONE-DC_Shell 112
+    3300034: NONE-DC_Shell 113
+    3300036: NONE-DC_Shell 114
+    3300038: NONE-DC_Shell 115
+    3300040: NONE-DC_Shell 116
+    3300042: NONE-DC_Shell 117
+    3300044: NONE-DC_Shell 118
+    3300046: NONE-DC_Shell 119
+    3300048: NONE-DC_Shell 12
+    3300050: NONE-DC_Shell 120
+    3300052: NONE-DC_Shell 121
+    3300054: NONE-DC_Shell 122
+    3300056: NONE-DC_Shell 123
+    3300058: NONE-DC_Shell 124
+    3300060: NONE-DC_Shell 125
+    3300062: NONE-DC_Shell 126
+    3300064: NONE-DC_Shell 127
+    3300066: NONE-DC_Shell 128
+    3300068: NONE-DC_Shell 129
+    3300070: NONE-DC_Shell 13
+    3300072: NONE-DC_Shell 130
+    3300074: NONE-DC_Shell 131
+    3300076: NONE-DC_Shell 132
+    3300078: NONE-DC_Shell 133
+    3300080: NONE-DC_Shell 134
+    3300082: NONE-DC_Shell 135
+    3300084: NONE-DC_Shell 136
+    3300086: NONE-DC_Shell 137
+    3300088: NONE-DC_Shell 138
+    3300090: NONE-DC_Shell 139
+    3300092: NONE-DC_Shell 14
+    3300094: NONE-DC_Shell 140
+    3300096: NONE-DC_Shell 141
+    3300098: NONE-DC_Shell 142
+    3300100: NONE-DC_Shell 143
+    3300102: NONE-DC_Shell 144
+    3300104: NONE-DC_Shell 145
+    3300106: NONE-DC_Shell 146
+    3300108: NONE-DC_Shell 147
+    3300110: NONE-DC_Shell 148
+    3300112: NONE-DC_Shell 149
+    3300114: NONE-DC_Shell 15
+    3300116: NONE-DC_Shell 150
+    3300118: NONE-DC_Shell 151
+    3300120: NONE-DC_Shell 152
+    3300122: NONE-DC_Shell 153
+    3300124: NONE-DC_Shell 154
+    3300126: NONE-DC_Shell 155
+    3300128: NONE-DC_Shell 156
+    3300130: NONE-DC_Shell 157
+    3300132: NONE-DC_Shell 158
+    3300134: NONE-DC_Shell 159
+    3300136: NONE-DC_Shell 16
+    3300138: NONE-DC_Shell 160
+    3300140: NONE-DC_Shell 17
+    3300142: NONE-DC_Shell 18
+    3300144: NONE-DC_Shell 19
+    3300146: NONE-DC_Shell 2
+    3300148: NONE-DC_Shell 20
+    3300150: NONE-DC_Shell 21
+    3300152: NONE-DC_Shell 22
+    3300154: NONE-DC_Shell 23
+    3300156: NONE-DC_Shell 24
+    3300158: NONE-DC_Shell 25
+    3300160: NONE-DC_Shell 26
+    3300162: NONE-DC_Shell 27
+    3300164: NONE-DC_Shell 28
+    3300166: NONE-DC_Shell 29
+    3300168: NONE-DC_Shell 3
+    3300170: NONE-DC_Shell 30
+    3300172: NONE-DC_Shell 31
+    3300174: NONE-DC_Shell 32
+    3300176: NONE-DC_Shell 33
+    3300178: NONE-DC_Shell 34
+    3300180: NONE-DC_Shell 35
+    3300182: NONE-DC_Shell 36
+    3300184: NONE-DC_Shell 37
+    3300186: NONE-DC_Shell 38
+    3300188: NONE-DC_Shell 39
+    3300190: NONE-DC_Shell 4
+    3300192: NONE-DC_Shell 40
+    3300194: NONE-DC_Shell 41
+    3300196: NONE-DC_Shell 42
+    3300198: NONE-DC_Shell 43
+    3300200: NONE-DC_Shell 44
+    3300202: NONE-DC_Shell 45
+    3300204: NONE-DC_Shell 46
+    3300206: NONE-DC_Shell 47
+    3300208: NONE-DC_Shell 48
+    3300210: NONE-DC_Shell 49
+    3300212: NONE-DC_Shell 5
+    3300214: NONE-DC_Shell 50
+    3300216: NONE-DC_Shell 51
+    3300218: NONE-DC_Shell 52
+    3300220: NONE-DC_Shell 53
+    3300222: NONE-DC_Shell 54
+    3300224: NONE-DC_Shell 55
+    3300226: NONE-DC_Shell 56
+    3300228: NONE-DC_Shell 57
+    3300230: NONE-DC_Shell 58
+    3300232: NONE-DC_Shell 59
+    3300234: NONE-DC_Shell 6
+    3300236: NONE-DC_Shell 60
+    3300238: NONE-DC_Shell 61
+    3300240: NONE-DC_Shell 62
+    3300242: NONE-DC_Shell 63
+    3300244: NONE-DC_Shell 64
+    3300246: NONE-DC_Shell 65
+    3300248: NONE-DC_Shell 66
+    3300250: NONE-DC_Shell 67
+    3300252: NONE-DC_Shell 68
+    3300254: NONE-DC_Shell 69
+    3300256: NONE-DC_Shell 7
+    3300258: NONE-DC_Shell 70
+    3300260: NONE-DC_Shell 71
+    3300262: NONE-DC_Shell 72
+    3300264: NONE-DC_Shell 73
+    3300266: NONE-DC_Shell 74
+    3300268: NONE-DC_Shell 75
+    3300270: NONE-DC_Shell 76
+    3300272: NONE-DC_Shell 77
+    3300274: NONE-DC_Shell 78
+    3300276: NONE-DC_Shell 79
+    3300278: NONE-DC_Shell 8
+    3300280: NONE-DC_Shell 80
+    3300282: NONE-DC_Shell 81
+    3300284: NONE-DC_Shell 82
+    3300286: NONE-DC_Shell 83
+    3300288: NONE-DC_Shell 84
+    3300290: NONE-DC_Shell 85
+    3300292: NONE-DC_Shell 86
+    3300294: NONE-DC_Shell 87
+    3300296: NONE-DC_Shell 88
+    3300298: NONE-DC_Shell 89
+    3300300: NONE-DC_Shell 9
+    3300302: NONE-DC_Shell 90
+    3300304: NONE-DC_Shell 91
+    3300306: NONE-DC_Shell 92
+    3300308: NONE-DC_Shell 93
+    3300310: NONE-DC_Shell 94
+    3300312: NONE-DC_Shell 95
+    3300314: NONE-DC_Shell 96
+    3300316: NONE-DC_Shell 97
+    3300318: NONE-DC_Shell 98
+    3300320: NONE-DC_Shell 99
+    4300000: NONE-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: NONE-DC_Shell
+    4300012: NONE-DC_Shell
+    4300014: NONE-DC_Shell
+    4300016: NONE-DC_Shell
+    4300018: NONE-DC_Shell
+    4300020: NONE-DC_Shell
+    4300022: NONE-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: NONE-DC_Shell
+    4300032: NONE-DC_Shell
+    4300034: NONE-DC_Shell
+    4300036: NONE-DC_Shell
+    4300038: NONE-DC_Shell
+    4300040: NONE-DC_Shell
+    4300042: NONE-DC_Shell
+    4300044: NONE-DC_Shell
+    4300046: NONE-DC_Shell
+    4300048: NONE-DC_Shell
+    4300050: NONE-DC_Shell
+    4300052: NONE-DC_Shell
+    4300054: NONE-DC_Shell
+    4300056: NONE-DC_Shell
+    4300058: NONE-DC_Shell
+    4300060: NONE-DC_Shell
+    4300062: NONE-DC_Shell
+    4300064: NONE-DC_Shell
+    4300066: NONE-DC_Shell
+    4300068: NONE-DC_Shell
+    4300070: NONE-DC_Shell
+    4300072: NONE-DC_Shell
+    4300074: NONE-DC_Shell
+    4300076: NONE-DC_Shell
+    4300078: NONE-DC_Shell
+    4300080: NONE-DC_Shell
+    4300082: NONE-DC_Shell
+    4300084: NONE-DC_Shell
+    4300086: NONE-DC_Shell
+    4300088: NONE-DC_Shell
+    4300090: NONE-DC_Shell
+    4300092: NONE-DC_Shell
+    4300094: NONE-DC_Shell
+    4300096: NONE-DC_Shell
+    4300098: NONE-DC_Shell
+    4300100: NONE-DC_Shell
+    4300102: NONE-DC_Shell
+    4300104: NONE-DC_Shell
+    4300106: NONE-DC_Shell
+    4300108: NONE-DC_Shell
+    4300110: NONE-DC_Shell
+    4300112: NONE-DC_Shell
+    4300114: NONE-DC_Shell
+    4300116: NONE-DC_Shell
+    4300118: NONE-DC_Shell
+    4300120: NONE-DC_Shell
+    4300122: NONE-DC_Shell
+    4300124: NONE-DC_Shell
+    4300126: NONE-DC_Shell
+    4300128: NONE-DC_Shell
+    4300130: NONE-DC_Shell
+    4300132: NONE-DC_Shell
+    4300134: NONE-DC_Shell
+    4300136: NONE-DC_Shell
+    4300138: NONE-DC_Shell
+    4300140: NONE-DC_Shell
+    4300142: NONE-DC_Shell
+    4300144: NONE-DC_Shell
+    4300146: NONE-DC_Shell
+    4300148: NONE-DC_Shell
+    4300150: NONE-DC_Shell
+    4300152: NONE-DC_Shell
+    4300154: NONE-DC_Shell
+    4300156: NONE-DC_Shell
+    4300158: NONE-DC_Shell
+    4300160: NONE-DC_Shell
+    4300162: NONE-DC_Shell
+    4300164: NONE-DC_Shell
+    4300166: NONE-DC_Shell
+    4300168: NONE-DC_Shell
+    4300170: NONE-DC_Shell
+    4300172: NONE-DC_Shell
+    4300174: NONE-DC_Shell
+    4300176: NONE-DC_Shell
+    4300178: NONE-DC_Shell
+    4300180: NONE-DC_Shell
+    4300182: NONE-DC_Shell
+    4300184: NONE-DC_Shell
+    4300186: NONE-DC_Shell
+    4300188: NONE-DC_Shell
+    4300190: NONE-DC_Shell
+    4300192: NONE-DC_Shell
+    4300194: NONE-DC_Shell
+    4300196: NONE-DC_Shell
+    4300198: NONE-DC_Shell
+    4300200: NONE-DC_Shell
+    4300202: NONE-DC_Shell
+    4300204: NONE-DC_Shell
+    4300206: NONE-DC_Shell
+    4300208: NONE-DC_Shell
+    4300210: NONE-DC_Shell
+    4300212: NONE-DC_Shell
+    4300214: NONE-DC_Shell
+    4300216: NONE-DC_Shell
+    4300218: NONE-DC_Shell
+    4300220: NONE-DC_Shell
+    4300222: NONE-DC_Shell
+    4300224: NONE-DC_Shell
+    4300226: NONE-DC_Shell
+    4300228: NONE-DC_Shell
+    4300230: NONE-DC_Shell
+    4300232: NONE-DC_Shell
+    4300234: NONE-DC_Shell
+    4300236: NONE-DC_Shell
+    4300238: NONE-DC_Shell
+    4300240: NONE-DC_Shell
+    4300242: NONE-DC_Shell
+    4300244: NONE-DC_Shell
+    4300246: NONE-DC_Shell
+    4300248: NONE-DC_Shell
+    4300250: NONE-DC_Shell
+    4300252: NONE-DC_Shell
+    4300254: NONE-DC_Shell
+    4300256: NONE-DC_Shell
+    4300258: NONE-DC_Shell
+    4300260: NONE-DC_Shell
+    4300262: NONE-DC_Shell
+    4300264: NONE-DC_Shell
+    4300266: NONE-DC_Shell
+    4300268: NONE-DC_Shell
+    4300270: NONE-DC_Shell
+    4300272: NONE-DC_Shell
+    4300274: NONE-DC_Shell
+    4300276: NONE-DC_Shell
+    4300278: NONE-DC_Shell
+    4300280: NONE-DC_Shell
+    4300282: NONE-DC_Shell
+    4300284: NONE-DC_Shell
+    4300286: NONE-DC_Shell
+    4300288: NONE-DC_Shell
+    4300290: NONE-DC_Shell
+    4300292: NONE-DC_Shell
+    4300294: NONE-DC_Shell
+    4300296: NONE-DC_Shell
+    4300298: NONE-DC_Shell
+    4300300: NONE-DC_Shell
+    4300302: NONE-DC_Shell
+    4300304: NONE-DC_Shell
+    4300306: NONE-DC_Shell
+    4300308: NONE-DC_Shell
+    4300310: NONE-DC_Shell
+    4300312: NONE-DC_Shell
+    4300314: NONE-DC_Shell
+    4300316: NONE-DC_Shell
+    4300318: NONE-DC_Shell
+    4300320: NONE-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

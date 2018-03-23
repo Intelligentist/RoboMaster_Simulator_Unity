@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 15b1bbe326d9ae2458452437d136196c
+timeCreated: 1504444180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: '  5'
+    100012: '  6'
+    100014: ' 1'
+    100016: ' 10'
+    100018: ' 11'
+    100020: ' 2'
+    100022: ' 3'
+    100024: ' 4'
+    100026: ' 5'
+    100028: ' 6'
+    100030: ' 7'
+    100032: ' 8'
+    100034: ' 9'
+    100036: -DC_Brep
+    100038: -DC_Brep 1
+    100040: -DC_Brep 2
+    100042: -DC_Brep 3
+    100044: -DC_Brep 4
+    100046: -DC_Brep 5
+    100048: -DC_Brep 6
+    100050: 0PITCH 1
+    100052: 12x21x5
+    100054: 12x21x5 1
+    100056: 12x23x2
+    100058: 12x23x2 1
+    100060: dummyName
+    100062: dummyName 1
+    100064: dummyName 2
+    100066: dummyName 3
+    100068: NONE
+    100070: NONE 1
+    100072: NONE 2
+    100074: NONE 3
+    100076: NONE 4
+    100078: NONE 5
+    100080: NONE 6
+    100082: RM2310
+    100084: RM2310 1
+    100086: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: '  5'
+    400012: '  6'
+    400014: ' 1'
+    400016: ' 10'
+    400018: ' 11'
+    400020: ' 2'
+    400022: ' 3'
+    400024: ' 4'
+    400026: ' 5'
+    400028: ' 6'
+    400030: ' 7'
+    400032: ' 8'
+    400034: ' 9'
+    400036: -DC_Brep
+    400038: -DC_Brep 1
+    400040: -DC_Brep 2
+    400042: -DC_Brep 3
+    400044: -DC_Brep 4
+    400046: -DC_Brep 5
+    400048: -DC_Brep 6
+    400050: 0PITCH 1
+    400052: 12x21x5
+    400054: 12x21x5 1
+    400056: 12x23x2
+    400058: 12x23x2 1
+    400060: dummyName
+    400062: dummyName 1
+    400064: dummyName 2
+    400066: dummyName 3
+    400068: NONE
+    400070: NONE 1
+    400072: NONE 2
+    400074: NONE 3
+    400076: NONE 4
+    400078: NONE 5
+    400080: NONE 6
+    400082: RM2310
+    400084: RM2310 1
+    400086: //RootNode
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 2
+    2300006: -DC_Brep 3
+    2300008: -DC_Brep 4
+    2300010: -DC_Brep 5
+    2300012: -DC_Brep 6
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 2
+    3300006: -DC_Brep 3
+    3300008: -DC_Brep 4
+    3300010: -DC_Brep 5
+    3300012: -DC_Brep 6
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 7eda1d4c38660ce41b844e419556375a
+timeCreated: 1505059763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: ' 1'
+    100010: ' 2'
+    100012: ' 3'
+    100014: ' 4'
+    100016: ' 5'
+    100018: ' 6'
+    100020: ' 7'
+    100022: ' 8'
+    100024: -3
+    100026: -3-DC_Shell
+    100028: -7
+    100030: -7 1
+    100032: -7 2
+    100034: 10
+    100036: 10 1
+    100038: 10 2
+    100040: 9
+    100042: 9 1
+    100044: 9 2
+    100046: dummyName 1
+    100048: dummyName 2
+    100050: dummyName 3
+    100052: dummyName 4
+    100054: dummyName 5
+    100056: dummyName 6
+    100058: dummyName 7
+    100060: dummyName 8
+    100062: dummyName 9
+    100064: NONE
+    100066: NONE 1
+    100068: NONE 10
+    100070: NONE 11
+    100072: NONE 12
+    100074: NONE 13
+    100076: NONE 14
+    100078: NONE 15
+    100080: NONE 16
+    100082: NONE 17
+    100084: NONE 18
+    100086: NONE 2
+    100088: NONE 3
+    100090: NONE 4
+    100092: NONE 5
+    100094: NONE 6
+    100096: NONE 7
+    100098: NONE 8
+    100100: NONE 9
+    100102: NONE-DC_Shell
+    100104: NONE-DC_Shell 1
+    100106: NONE-DC_Shell 10
+    100108: NONE-DC_Shell 11
+    100110: NONE-DC_Shell 12
+    100112: NONE-DC_Shell 13
+    100114: NONE-DC_Shell 14
+    100116: NONE-DC_Shell 2
+    100118: NONE-DC_Shell 3
+    100120: NONE-DC_Shell 4
+    100122: NONE-DC_Shell 5
+    100124: NONE-DC_Shell 6
+    100126: NONE-DC_Shell 7
+    100128: NONE-DC_Shell 8
+    100130: NONE-DC_Shell 9
+    100132: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: ' 1'
+    400010: ' 2'
+    400012: ' 3'
+    400014: ' 4'
+    400016: ' 5'
+    400018: ' 6'
+    400020: ' 7'
+    400022: ' 8'
+    400024: -3
+    400026: -3-DC_Shell
+    400028: -7
+    400030: -7 1
+    400032: -7 2
+    400034: 10
+    400036: 10 1
+    400038: 10 2
+    400040: 9
+    400042: 9 1
+    400044: 9 2
+    400046: dummyName 1
+    400048: dummyName 2
+    400050: dummyName 3
+    400052: dummyName 4
+    400054: dummyName 5
+    400056: dummyName 6
+    400058: dummyName 7
+    400060: dummyName 8
+    400062: dummyName 9
+    400064: NONE
+    400066: NONE 1
+    400068: NONE 10
+    400070: NONE 11
+    400072: NONE 12
+    400074: NONE 13
+    400076: NONE 14
+    400078: NONE 15
+    400080: NONE 16
+    400082: NONE 17
+    400084: NONE 18
+    400086: NONE 2
+    400088: NONE 3
+    400090: NONE 4
+    400092: NONE 5
+    400094: NONE 6
+    400096: NONE 7
+    400098: NONE 8
+    400100: NONE 9
+    400102: NONE-DC_Shell
+    400104: NONE-DC_Shell 1
+    400106: NONE-DC_Shell 10
+    400108: NONE-DC_Shell 11
+    400110: NONE-DC_Shell 12
+    400112: NONE-DC_Shell 13
+    400114: NONE-DC_Shell 14
+    400116: NONE-DC_Shell 2
+    400118: NONE-DC_Shell 3
+    400120: NONE-DC_Shell 4
+    400122: NONE-DC_Shell 5
+    400124: NONE-DC_Shell 6
+    400126: NONE-DC_Shell 7
+    400128: NONE-DC_Shell 8
+    400130: NONE-DC_Shell 9
+    400132: //RootNode
+    2300000: -3-DC_Shell
+    2300002: NONE-DC_Shell
+    2300004: NONE-DC_Shell 1
+    2300006: NONE-DC_Shell 10
+    2300008: NONE-DC_Shell 11
+    2300010: NONE-DC_Shell 12
+    2300012: NONE-DC_Shell 13
+    2300014: NONE-DC_Shell 14
+    2300016: NONE-DC_Shell 2
+    2300018: NONE-DC_Shell 3
+    2300020: NONE-DC_Shell 4
+    2300022: NONE-DC_Shell 5
+    2300024: NONE-DC_Shell 6
+    2300026: NONE-DC_Shell 7
+    2300028: NONE-DC_Shell 8
+    2300030: NONE-DC_Shell 9
+    3300000: -3-DC_Shell
+    3300002: NONE-DC_Shell
+    3300004: NONE-DC_Shell 1
+    3300006: NONE-DC_Shell 10
+    3300008: NONE-DC_Shell 11
+    3300010: NONE-DC_Shell 12
+    3300012: NONE-DC_Shell 13
+    3300014: NONE-DC_Shell 14
+    3300016: NONE-DC_Shell 2
+    3300018: NONE-DC_Shell 3
+    3300020: NONE-DC_Shell 4
+    3300022: NONE-DC_Shell 5
+    3300024: NONE-DC_Shell 6
+    3300026: NONE-DC_Shell 7
+    3300028: NONE-DC_Shell 8
+    3300030: NONE-DC_Shell 9
+    4300000: -3-DC_Shell
+    4300002: NONE-DC_Shell
+    4300004: NONE-DC_Shell
+    4300006: NONE-DC_Shell
+    4300008: NONE-DC_Shell
+    4300010: NONE-DC_Shell
+    4300012: NONE-DC_Shell
+    4300014: NONE-DC_Shell
+    4300016: NONE-DC_Shell
+    4300018: NONE-DC_Shell
+    4300020: NONE-DC_Shell
+    4300022: NONE-DC_Shell
+    4300024: NONE-DC_Shell
+    4300026: NONE-DC_Shell
+    4300028: NONE-DC_Shell
+    4300030: NONE-DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

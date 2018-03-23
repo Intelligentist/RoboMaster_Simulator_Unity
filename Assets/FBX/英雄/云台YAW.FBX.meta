@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 1e9089d43cc298d42b3ad0da4552b9cd
+timeCreated: 1504444181
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  2'
+    100006: '  3'
+    100008: '  4'
+    100010: '  5'
+    100012: '  6'
+    100014: ' 1'
+    100016: ' 10'
+    100018: ' 11'
+    100020: ' 12'
+    100022: ' 2'
+    100024: ' 3'
+    100026: ' 4'
+    100028: ' 5'
+    100030: ' 6'
+    100032: ' 7'
+    100034: ' 8'
+    100036: ' 9'
+    100038: -DC_Brep
+    100040: -DC_Brep 1
+    100042: -DC_Brep 10
+    100044: -DC_Brep 11
+    100046: -DC_Brep 12
+    100048: -DC_Brep 13
+    100050: -DC_Brep 14
+    100052: -DC_Brep 15
+    100054: -DC_Brep 16
+    100056: -DC_Brep 17
+    100058: -DC_Brep 18
+    100060: -DC_Brep 19
+    100062: -DC_Brep 2
+    100064: -DC_Brep 20
+    100066: -DC_Brep 21
+    100068: -DC_Brep 22
+    100070: -DC_Brep 23
+    100072: -DC_Brep 24
+    100074: -DC_Brep 25
+    100076: -DC_Brep 3
+    100078: -DC_Brep 4
+    100080: -DC_Brep 5
+    100082: -DC_Brep 6
+    100084: -DC_Brep 7
+    100086: -DC_Brep 8
+    100088: -DC_Brep 9
+    100090: 0YAW 1
+    100092: 6623
+    100094: 6623 1
+    100096: dummyName
+    100098: dummyName 1
+    100100: dummyName 2
+    100102: dummyName 3
+    100104: dummyName 4
+    100106: dummyName 5
+    100108: NONE
+    100110: NONE 1
+    100112: NONE 2
+    100114: NONE 3
+    100116: NONE 4
+    100118: NONE 5
+    100120: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  2'
+    400006: '  3'
+    400008: '  4'
+    400010: '  5'
+    400012: '  6'
+    400014: ' 1'
+    400016: ' 10'
+    400018: ' 11'
+    400020: ' 12'
+    400022: ' 2'
+    400024: ' 3'
+    400026: ' 4'
+    400028: ' 5'
+    400030: ' 6'
+    400032: ' 7'
+    400034: ' 8'
+    400036: ' 9'
+    400038: -DC_Brep
+    400040: -DC_Brep 1
+    400042: -DC_Brep 10
+    400044: -DC_Brep 11
+    400046: -DC_Brep 12
+    400048: -DC_Brep 13
+    400050: -DC_Brep 14
+    400052: -DC_Brep 15
+    400054: -DC_Brep 16
+    400056: -DC_Brep 17
+    400058: -DC_Brep 18
+    400060: -DC_Brep 19
+    400062: -DC_Brep 2
+    400064: -DC_Brep 20
+    400066: -DC_Brep 21
+    400068: -DC_Brep 22
+    400070: -DC_Brep 23
+    400072: -DC_Brep 24
+    400074: -DC_Brep 25
+    400076: -DC_Brep 3
+    400078: -DC_Brep 4
+    400080: -DC_Brep 5
+    400082: -DC_Brep 6
+    400084: -DC_Brep 7
+    400086: -DC_Brep 8
+    400088: -DC_Brep 9
+    400090: 0YAW 1
+    400092: 6623
+    400094: 6623 1
+    400096: dummyName
+    400098: dummyName 1
+    400100: dummyName 2
+    400102: dummyName 3
+    400104: dummyName 4
+    400106: dummyName 5
+    400108: NONE
+    400110: NONE 1
+    400112: NONE 2
+    400114: NONE 3
+    400116: NONE 4
+    400118: NONE 5
+    400120: //RootNode
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 10
+    2300006: -DC_Brep 11
+    2300008: -DC_Brep 12
+    2300010: -DC_Brep 13
+    2300012: -DC_Brep 14
+    2300014: -DC_Brep 15
+    2300016: -DC_Brep 16
+    2300018: -DC_Brep 17
+    2300020: -DC_Brep 18
+    2300022: -DC_Brep 19
+    2300024: -DC_Brep 2
+    2300026: -DC_Brep 20
+    2300028: -DC_Brep 21
+    2300030: -DC_Brep 22
+    2300032: -DC_Brep 23
+    2300034: -DC_Brep 24
+    2300036: -DC_Brep 25
+    2300038: -DC_Brep 3
+    2300040: -DC_Brep 4
+    2300042: -DC_Brep 5
+    2300044: -DC_Brep 6
+    2300046: -DC_Brep 7
+    2300048: -DC_Brep 8
+    2300050: -DC_Brep 9
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 10
+    3300006: -DC_Brep 11
+    3300008: -DC_Brep 12
+    3300010: -DC_Brep 13
+    3300012: -DC_Brep 14
+    3300014: -DC_Brep 15
+    3300016: -DC_Brep 16
+    3300018: -DC_Brep 17
+    3300020: -DC_Brep 18
+    3300022: -DC_Brep 19
+    3300024: -DC_Brep 2
+    3300026: -DC_Brep 20
+    3300028: -DC_Brep 21
+    3300030: -DC_Brep 22
+    3300032: -DC_Brep 23
+    3300034: -DC_Brep 24
+    3300036: -DC_Brep 25
+    3300038: -DC_Brep 3
+    3300040: -DC_Brep 4
+    3300042: -DC_Brep 5
+    3300044: -DC_Brep 6
+    3300046: -DC_Brep 7
+    3300048: -DC_Brep 8
+    3300050: -DC_Brep 9
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    4300018: -DC_Brep
+    4300020: -DC_Brep
+    4300022: -DC_Brep
+    4300024: -DC_Brep
+    4300026: -DC_Brep
+    4300028: -DC_Brep
+    4300030: -DC_Brep
+    4300032: -DC_Brep
+    4300034: -DC_Brep
+    4300036: -DC_Brep
+    4300038: -DC_Brep
+    4300040: -DC_Brep
+    4300042: -DC_Brep
+    4300044: -DC_Brep
+    4300046: -DC_Brep
+    4300048: -DC_Brep
+    4300050: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

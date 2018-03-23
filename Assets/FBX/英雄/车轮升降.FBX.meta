@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 1e2297f2cd06c8d4892e537265182923
+timeCreated: 1504444180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ' '
+    100002: '  1'
+    100004: '  10'
+    100006: '  11'
+    100008: '  12'
+    100010: '  13'
+    100012: '  14'
+    100014: '  15'
+    100016: '  16'
+    100018: '  17'
+    100020: '  18'
+    100022: '  19'
+    100024: '  2'
+    100026: '  20'
+    100028: '  21'
+    100030: '  22'
+    100032: '  23'
+    100034: '  3'
+    100036: '  4'
+    100038: '  5'
+    100040: '  6'
+    100042: '  7'
+    100044: '  8'
+    100046: '  9'
+    100048: ' 1'
+    100050: ' 10'
+    100052: ' 11'
+    100054: ' 12'
+    100056: ' 13'
+    100058: ' 14'
+    100060: ' 15'
+    100062: ' 16'
+    100064: ' 17'
+    100066: ' 18'
+    100068: ' 19'
+    100070: ' 2'
+    100072: ' 20'
+    100074: ' 21'
+    100076: ' 22'
+    100078: ' 23'
+    100080: ' 24'
+    100082: ' 25'
+    100084: ' 26'
+    100086: ' 27'
+    100088: ' 28'
+    100090: ' 29'
+    100092: ' 3'
+    100094: ' 30'
+    100096: ' 31'
+    100098: ' 4'
+    100100: ' 5'
+    100102: ' 6'
+    100104: ' 7'
+    100106: ' 8'
+    100108: ' 9'
+    100110: -DC_Brep
+    100112: -DC_Brep 1
+    100114: -DC_Brep 10
+    100116: -DC_Brep 11
+    100118: -DC_Brep 12
+    100120: -DC_Brep 13
+    100122: -DC_Brep 14
+    100124: -DC_Brep 15
+    100126: -DC_Brep 16
+    100128: -DC_Brep 17
+    100130: -DC_Brep 18
+    100132: -DC_Brep 19
+    100134: -DC_Brep 2
+    100136: -DC_Brep 20
+    100138: -DC_Brep 21
+    100140: -DC_Brep 22
+    100142: -DC_Brep 23
+    100144: -DC_Brep 24
+    100146: -DC_Brep 25
+    100148: -DC_Brep 26
+    100150: -DC_Brep 27
+    100152: -DC_Brep 28
+    100154: -DC_Brep 29
+    100156: -DC_Brep 3
+    100158: -DC_Brep 30
+    100160: -DC_Brep 31
+    100162: -DC_Brep 4
+    100164: -DC_Brep 5
+    100166: -DC_Brep 6
+    100168: -DC_Brep 7
+    100170: -DC_Brep 8
+    100172: -DC_Brep 9
+    100174: 1^
+    100176: 1^ 1
+    100178: 3510
+    100180: 3510 1
+    100182: 5X10X4
+    100184: 5X10X4 1
+    100186: 5X10X4 2
+    100188: 5X10X4 3
+    100190: _<>
+    100192: _<> 1
+    100194: _<> 2
+    100196: _<> 3
+    100198: _GearTrax
+    100200: _GearTrax 1
+    100202: _GearTrax 2
+    100204: _GearTrax 3
+    100206: _M4
+    100208: _M4 1
+    100210: _M4 2
+    100212: _M4 3
+    100214: dummyName 1
+    100216: dummyName 2
+    100218: dummyName 3
+    100220: dummyName 4
+    100222: dummyName 5
+    100224: dummyName 6
+    100226: M4_10
+    100228: M4_10 1
+    100230: M4_10 2
+    100232: M4_10 3
+    100234: M4_10 4
+    100236: M4_10 5
+    100238: M4_10 6
+    100240: M4_10 7
+    100242: M4_25
+    100244: M4_25 1
+    100246: M4_25 2
+    100248: M4_25 3
+    100250: M4_50
+    100252: M4_50 1
+    100254: NONE
+    100256: NONE 1
+    100258: NONE 10
+    100260: NONE 11
+    100262: NONE 12
+    100264: NONE 13
+    100266: NONE 14
+    100268: NONE 15
+    100270: NONE 16
+    100272: NONE 17
+    100274: NONE 18
+    100276: NONE 19
+    100278: NONE 2
+    100280: NONE 20
+    100282: NONE 21
+    100284: NONE 22
+    100286: NONE 23
+    100288: NONE 3
+    100290: NONE 4
+    100292: NONE 5
+    100294: NONE 6
+    100296: NONE 7
+    100298: NONE 8
+    100300: NONE 9
+    100302: u
+    100304: u 1
+    100306: //RootNode
+    400000: ' '
+    400002: '  1'
+    400004: '  10'
+    400006: '  11'
+    400008: '  12'
+    400010: '  13'
+    400012: '  14'
+    400014: '  15'
+    400016: '  16'
+    400018: '  17'
+    400020: '  18'
+    400022: '  19'
+    400024: '  2'
+    400026: '  20'
+    400028: '  21'
+    400030: '  22'
+    400032: '  23'
+    400034: '  3'
+    400036: '  4'
+    400038: '  5'
+    400040: '  6'
+    400042: '  7'
+    400044: '  8'
+    400046: '  9'
+    400048: ' 1'
+    400050: ' 10'
+    400052: ' 11'
+    400054: ' 12'
+    400056: ' 13'
+    400058: ' 14'
+    400060: ' 15'
+    400062: ' 16'
+    400064: ' 17'
+    400066: ' 18'
+    400068: ' 19'
+    400070: ' 2'
+    400072: ' 20'
+    400074: ' 21'
+    400076: ' 22'
+    400078: ' 23'
+    400080: ' 24'
+    400082: ' 25'
+    400084: ' 26'
+    400086: ' 27'
+    400088: ' 28'
+    400090: ' 29'
+    400092: ' 3'
+    400094: ' 30'
+    400096: ' 31'
+    400098: ' 4'
+    400100: ' 5'
+    400102: ' 6'
+    400104: ' 7'
+    400106: ' 8'
+    400108: ' 9'
+    400110: -DC_Brep
+    400112: -DC_Brep 1
+    400114: -DC_Brep 10
+    400116: -DC_Brep 11
+    400118: -DC_Brep 12
+    400120: -DC_Brep 13
+    400122: -DC_Brep 14
+    400124: -DC_Brep 15
+    400126: -DC_Brep 16
+    400128: -DC_Brep 17
+    400130: -DC_Brep 18
+    400132: -DC_Brep 19
+    400134: -DC_Brep 2
+    400136: -DC_Brep 20
+    400138: -DC_Brep 21
+    400140: -DC_Brep 22
+    400142: -DC_Brep 23
+    400144: -DC_Brep 24
+    400146: -DC_Brep 25
+    400148: -DC_Brep 26
+    400150: -DC_Brep 27
+    400152: -DC_Brep 28
+    400154: -DC_Brep 29
+    400156: -DC_Brep 3
+    400158: -DC_Brep 30
+    400160: -DC_Brep 31
+    400162: -DC_Brep 4
+    400164: -DC_Brep 5
+    400166: -DC_Brep 6
+    400168: -DC_Brep 7
+    400170: -DC_Brep 8
+    400172: -DC_Brep 9
+    400174: 1^
+    400176: 1^ 1
+    400178: 3510
+    400180: 3510 1
+    400182: 5X10X4
+    400184: 5X10X4 1
+    400186: 5X10X4 2
+    400188: 5X10X4 3
+    400190: _<>
+    400192: _<> 1
+    400194: _<> 2
+    400196: _<> 3
+    400198: _GearTrax
+    400200: _GearTrax 1
+    400202: _GearTrax 2
+    400204: _GearTrax 3
+    400206: _M4
+    400208: _M4 1
+    400210: _M4 2
+    400212: _M4 3
+    400214: dummyName 1
+    400216: dummyName 2
+    400218: dummyName 3
+    400220: dummyName 4
+    400222: dummyName 5
+    400224: dummyName 6
+    400226: M4_10
+    400228: M4_10 1
+    400230: M4_10 2
+    400232: M4_10 3
+    400234: M4_10 4
+    400236: M4_10 5
+    400238: M4_10 6
+    400240: M4_10 7
+    400242: M4_25
+    400244: M4_25 1
+    400246: M4_25 2
+    400248: M4_25 3
+    400250: M4_50
+    400252: M4_50 1
+    400254: NONE
+    400256: NONE 1
+    400258: NONE 10
+    400260: NONE 11
+    400262: NONE 12
+    400264: NONE 13
+    400266: NONE 14
+    400268: NONE 15
+    400270: NONE 16
+    400272: NONE 17
+    400274: NONE 18
+    400276: NONE 19
+    400278: NONE 2
+    400280: NONE 20
+    400282: NONE 21
+    400284: NONE 22
+    400286: NONE 23
+    400288: NONE 3
+    400290: NONE 4
+    400292: NONE 5
+    400294: NONE 6
+    400296: NONE 7
+    400298: NONE 8
+    400300: NONE 9
+    400302: u
+    400304: u 1
+    400306: //RootNode
+    2300000: -DC_Brep
+    2300002: -DC_Brep 1
+    2300004: -DC_Brep 10
+    2300006: -DC_Brep 11
+    2300008: -DC_Brep 12
+    2300010: -DC_Brep 13
+    2300012: -DC_Brep 14
+    2300014: -DC_Brep 15
+    2300016: -DC_Brep 16
+    2300018: -DC_Brep 17
+    2300020: -DC_Brep 18
+    2300022: -DC_Brep 19
+    2300024: -DC_Brep 2
+    2300026: -DC_Brep 20
+    2300028: -DC_Brep 21
+    2300030: -DC_Brep 22
+    2300032: -DC_Brep 23
+    2300034: -DC_Brep 24
+    2300036: -DC_Brep 25
+    2300038: -DC_Brep 26
+    2300040: -DC_Brep 27
+    2300042: -DC_Brep 28
+    2300044: -DC_Brep 29
+    2300046: -DC_Brep 3
+    2300048: -DC_Brep 30
+    2300050: -DC_Brep 31
+    2300052: -DC_Brep 4
+    2300054: -DC_Brep 5
+    2300056: -DC_Brep 6
+    2300058: -DC_Brep 7
+    2300060: -DC_Brep 8
+    2300062: -DC_Brep 9
+    3300000: -DC_Brep
+    3300002: -DC_Brep 1
+    3300004: -DC_Brep 10
+    3300006: -DC_Brep 11
+    3300008: -DC_Brep 12
+    3300010: -DC_Brep 13
+    3300012: -DC_Brep 14
+    3300014: -DC_Brep 15
+    3300016: -DC_Brep 16
+    3300018: -DC_Brep 17
+    3300020: -DC_Brep 18
+    3300022: -DC_Brep 19
+    3300024: -DC_Brep 2
+    3300026: -DC_Brep 20
+    3300028: -DC_Brep 21
+    3300030: -DC_Brep 22
+    3300032: -DC_Brep 23
+    3300034: -DC_Brep 24
+    3300036: -DC_Brep 25
+    3300038: -DC_Brep 26
+    3300040: -DC_Brep 27
+    3300042: -DC_Brep 28
+    3300044: -DC_Brep 29
+    3300046: -DC_Brep 3
+    3300048: -DC_Brep 30
+    3300050: -DC_Brep 31
+    3300052: -DC_Brep 4
+    3300054: -DC_Brep 5
+    3300056: -DC_Brep 6
+    3300058: -DC_Brep 7
+    3300060: -DC_Brep 8
+    3300062: -DC_Brep 9
+    4300000: -DC_Brep
+    4300002: -DC_Brep
+    4300004: -DC_Brep
+    4300006: -DC_Brep
+    4300008: -DC_Brep
+    4300010: -DC_Brep
+    4300012: -DC_Brep
+    4300014: -DC_Brep
+    4300016: -DC_Brep
+    4300018: -DC_Brep
+    4300020: -DC_Brep
+    4300022: -DC_Brep
+    4300024: -DC_Brep
+    4300026: -DC_Brep
+    4300028: -DC_Brep
+    4300030: -DC_Brep
+    4300032: -DC_Brep
+    4300034: -DC_Brep
+    4300036: -DC_Brep
+    4300038: -DC_Brep
+    4300040: -DC_Brep
+    4300042: -DC_Brep
+    4300044: -DC_Brep
+    4300046: -DC_Brep
+    4300048: -DC_Brep
+    4300050: -DC_Brep
+    4300052: -DC_Brep
+    4300054: -DC_Brep
+    4300056: -DC_Brep
+    4300058: -DC_Brep
+    4300060: -DC_Brep
+    4300062: -DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
