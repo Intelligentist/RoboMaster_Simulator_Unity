@@ -26,6 +26,12 @@ namespace Prototype.NetworkLobby
             matchNameInput.onEndEdit.AddListener(onEndEditGameName);
         }
 
+        public void OnClickAbout()
+        {
+            Application.OpenURL("https://github.com/1448839220/RoboMaster_Unity_Emulator");
+        }
+
+
         public void OnClickHost()
         {
             lobbyManager.StartHost();

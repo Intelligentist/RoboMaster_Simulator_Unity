@@ -75,6 +75,7 @@ public class UIbutton : NetworkBehaviour
         SpawnButton[4].onClick.AddListener(SpawnButton5);
         SpawnButton[5].onClick.AddListener(SpawnButton6);
 
+
     }
 
     // Update is called once per frame
@@ -96,6 +97,7 @@ public class UIbutton : NetworkBehaviour
         color = colorchoose.RED;
 
     }
+
 
     void BuleButtonTaskOnClick()
     {
