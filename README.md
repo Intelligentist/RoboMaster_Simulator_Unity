@@ -5,7 +5,7 @@ A cross-platform emulator of `RoboMaster`, an international robotics competition
 
 最新版本 `v1.4.0.0` Download
 ------------
-Download coming soon...
+Offline package: https://github.com/1448839220/RoboMaster_Unity_Emulator/releases/tag/1.4.0.0
 
 特性 Features
 -------------------------------
