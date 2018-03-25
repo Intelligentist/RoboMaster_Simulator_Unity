@@ -6,6 +6,8 @@ A cross-platform emulator of `RoboMaster`, an international robotics competition
 **如果你对该项目感兴趣，请点击一下页面上方的 `⭐Star` 按钮支持一下，谢谢**    
 **If you are interested in this project, please `⭐Star` it on the top of this web page.**
 
+> 本项目为 `刘子豪97@华南理工大学` 的一个 fork（[原 repo](http://bbs.robomaster.com/thread-6101-1-4.html) 并未托管在 Github）。
+
 最新版本 `v1.4.0.0` Download
 ------------
 Offline package: https://github.com/1448839220/RoboMaster_Unity_Emulator/releases/tag/1.4.0.0
