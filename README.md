@@ -2,7 +2,7 @@
 
 [![Download](https://ws1.sinaimg.cn/large/006qWXRJly1fprj3mn6q1j305d01i3yc.jpg)](https://www.microsoft.com/store/apps/9P79HBK1SNG2)
 [![Instruction](https://ws1.sinaimg.cn/large/006qWXRJly1fprj53mcvcj306g01fdfo.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/wiki/游戏说明--How-to-Play%3F)
-[![Forum](https://ws1.sinaimg.cn/large/006qWXRJly1fprja7np2nj305z01iq2q.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/issues)
+[![Logs](https://ws1.sinaimg.cn/large/006qWXRJly1fprjlj8d3vj306v01gq2r.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/releases)
     
 一个跨平台的`机甲大师`比赛模拟器，使用`Unity`制作。      
 A cross-platform emulator of `RoboMaster`, an international robotics competition, made with `Unity`.     
