@@ -1,13 +1,14 @@
 ![](http://or110ndo3.bkt.clouddn.com/18-3-23/44973802.jpg)
+
+[![Download](https://ws1.sinaimg.cn/large/006qWXRJly1fprj3mn6q1j305d01i3yc.jpg)](https://www.microsoft.com/store/apps/9P79HBK1SNG2)
+[![Instruction](https://ws1.sinaimg.cn/large/006qWXRJly1fprj53mcvcj306g01fdfo.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/wiki/游戏说明--How-to-Play%3F)
+[![Forum](https://ws1.sinaimg.cn/large/006qWXRJly1fprja7np2nj305z01iq2q.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/issues)
     
 一个跨平台的`机甲大师`比赛模拟器，使用`Unity`制作。      
 A cross-platform emulator of `RoboMaster`, an international robotics competition, made with `Unity`.     
 
 **如果你对该项目感兴趣，请点击一下页面上方的 `⭐Star` 按钮支持一下，谢谢**    
 **If you are interested in this project, please `⭐Star` it on the top of this web page.**
-
-# 最新版本 `v1.4.0.0` Download
-[![Download](http://ww3.sinaimg.cn/large/0060lm7Tly1fpr4l2o9arj306f01va9x.jpg)](https://www.microsoft.com/store/apps/9P79HBK1SNG2)
 
 ![](http://or110ndo3.bkt.clouddn.com/18-3-23/16374214.jpg)    
 ![](http://or110ndo3.bkt.clouddn.com/18-3-23/40496656.jpg)
