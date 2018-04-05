@@ -26,11 +26,15 @@ namespace Prototype.NetworkLobby
             matchNameInput.onEndEdit.AddListener(onEndEditGameName);
         }
 
+        public void OnClickHow()
+        {
+            Application.OpenURL("https://github.com/1448839220/RoboMaster_Unity_Emulator/wiki/游戏说明--How-to-Play%3F");
+        }
+
         public void OnClickAbout()
         {
             Application.OpenURL("https://github.com/1448839220/RoboMaster_Unity_Emulator");
         }
-
 
         public void OnClickHost()
         {

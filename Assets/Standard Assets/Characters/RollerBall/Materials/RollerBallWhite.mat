@@ -8,10 +8,10 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: RollerBallWhite
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _EMISSION _GLOSSYREFLECTIONS_OFF _LIGHTMAPPING_BAKED _LIGHTMAPPING_STATIC_LIGHTMAPS
-    _UVPRIM_UV1 _UVSEC_UV1
-  m_LightmapFlags: 0
-  m_EnableInstancingVariants: 0
+  m_ShaderKeywords: _LIGHTMAPPING_BAKED _LIGHTMAPPING_STATIC_LIGHTMAPS _UVPRIM_UV1
+    _UVSEC_UV1
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -74,8 +74,8 @@ Material:
     - _EmissionScale: 1
     - _EmissionScaleUI: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.2
-    - _GlossyReflections: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 1
     - _Lightmapping: 0
     - _Metallic: 0
     - _Mode: 0
@@ -85,7 +85,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVPrim: 0
-    - _UVSec: 0
+    - _UVSec: 1
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 1}

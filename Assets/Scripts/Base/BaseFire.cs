@@ -144,7 +144,7 @@ public class BaseFire : NetworkBehaviour
         bullets = (GameObject)Instantiate(Bullet, FirePoint1.position, FirePoint1.rotation);
         bulletsRig = bullets.GetComponent<Rigidbody>();
         bulletsRig.velocity = f * CurrentFiringRate;
-        Destroy(bullets, 1f);
+        //Destroy(bullets, 1f);
         NetworkServer.Spawn(bullets);
     }
 
