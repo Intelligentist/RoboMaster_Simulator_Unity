@@ -40,7 +40,7 @@ Transform:
   m_GameObject: {fileID: 1209383675351414}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.317686, y: 0.01, z: -1.4940072}
-  m_LocalScale: {x: 0.058, y: 0.058, z: 0.058}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -85,7 +85,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1209383675351414}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: 2ae1af53eeb19b64d840f50f3db62275, type: 3}
 --- !u!54 &54480666377137712
 Rigidbody:
   m_ObjectHideFlags: 1
@@ -136,22 +136,22 @@ MonoBehaviour:
   m_SceneId:
     m_Value: 0
   m_AssetId:
-    i0: 240
-    i1: 146
-    i2: 226
-    i3: 34
-    i4: 221
-    i5: 52
-    i6: 231
-    i7: 116
-    i8: 216
-    i9: 110
-    i10: 6
-    i11: 165
-    i12: 208
-    i13: 249
-    i14: 216
-    i15: 188
+    i0: 130
+    i1: 57
+    i2: 199
+    i3: 62
+    i4: 171
+    i5: 158
+    i6: 68
+    i7: 84
+    i8: 41
+    i9: 19
+    i10: 249
+    i11: 187
+    i12: 206
+    i13: 8
+    i14: 248
+    i15: 58
   m_ServerOnly: 0
   m_LocalPlayerAuthority: 1
 --- !u!135 &135584938605211616
@@ -164,5 +164,5 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.2
+  m_Radius: 0.2
   m_Center: {x: 0, y: 0, z: 0}

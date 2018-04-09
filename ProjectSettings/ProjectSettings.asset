@@ -11,8 +11,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: RobotMaster
-  productName: RobotMaster
+  companyName: RoboMaster
+  productName: RoboMaster
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0.23149088, b: 0.6102941, a: 1}
@@ -1621,7 +1621,7 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: RobotMaster
+  metroPackageName: RoboMaster
   metroPackageVersion: 1.5.0.0
   metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
@@ -1630,7 +1630,7 @@ PlayerSettings:
   metroCertificateNotAfter: 005a189563e1d401
   metroApplicationDescription: An emulator of RoboMaster, a robotics game.
   wsaImages: {}
-  metroTileShortName: RobotMaster
+  metroTileShortName: RoboMaster
   metroCommandLineArgsFile: 
   metroTileShowName: 0
   metroMediumTileShowName: 1
@@ -1725,7 +1725,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 3
   cloudProjectId: fdc0d8ff-bc49-4bbf-9cc2-7c4f0bc3e308
-  projectName: RobotMasters
+  projectName: RoboMasters
   organizationId: liuzihao666
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 1
