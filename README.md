@@ -5,7 +5,7 @@
 [![Logs](https://ws1.sinaimg.cn/large/006qWXRJly1fprjlj8d3vj306v01gq2r.jpg)](https://github.com/1448839220/RoboMaster_Unity_Emulator/releases)
     
 一个跨平台的`机甲大师`比赛模拟器，使用`Unity`制作。      
-A cross-platform emulator of `RoboMaster`, an international robotics competition, made with `Unity`.     
+A cross-platform simulator of `RoboMaster`, an international robotics competition, made with `Unity`.     
 
 **如果你对该项目感兴趣，请点击一下页面上方的 `⭐Star` 按钮支持一下，谢谢**    
 **If you are interested in this project, please `⭐Star` it on the top of this web page.**
